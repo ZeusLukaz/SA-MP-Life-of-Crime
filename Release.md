@@ -40,6 +40,10 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 
 #### Informationen
 
+- Man kann als Müllfahrer allein oder mit einen Kollegen arbeiten.
+- Man kann zwischen den Städten LS, SF, LV oder einer gesamten Tour entscheiden.
+- Ab einen höheren Skill Level kann man ein besseres Müllfahrzeug nutzen.
+
 ### Taxifahrer
 
 #### Informationen
