@@ -4,6 +4,8 @@
 
 # Features
 
+Sämtliche Systeme wurden möglichst dynamisch geschrieben, um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
+
 ## Berufe
 
 ## Fraktionen
