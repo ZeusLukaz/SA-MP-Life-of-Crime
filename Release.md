@@ -29,19 +29,19 @@ Als Besitzer einer Tankstelle kann man den Liter, Reparatur und Kanister Preis a
 
 ##### Produkt Tabelle
 
-Maximale Produkte 10000
+- Maximale Produkte 10000
 
-Pro Liter 1 Produkt
-Pro Kanister 20 Produkte
-Pro Reparatur 15 Produkte
+- Pro Liter 1 Produkt
+- Pro Kanister 20 Produkte
+- Pro Reparatur 15 Produkte
 
 ##### Preis Tabelle
-Mindest Bezugspreis
-Maximaler Bezugspreis
-Mindest Liter Preis
-Maximaler Liter Preis
-Maximaler Kanister Preis
-Maximaler Reparatur Preis
+- Mindest Bezugspreis
+- Maximaler Bezugspreis
+- Mindest Liter Preis
+- Maximaler Liter Preis
+- Maximaler Kanister Preis
+- Maximaler Reparatur Preis
 
 ##### Standorte
 Elmerald Isle
