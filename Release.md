@@ -9,6 +9,26 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 
 ## Berufe
 
+### Busfahrer
+
+### Pilot
+
+### Trucker
+
+### Hochseefischer
+
+### Holzfäller
+
+### Müllfahrer
+
+### Taxifahrer
+
+### Detektiv
+
+### Anwalt
+
+### Farmer
+
 ## Fraktionen
 
 ## Immobilien
