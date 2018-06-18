@@ -13,6 +13,10 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 
 #### Informationen
 
+- Als Busfahrer kann man mit dem Befehl /linie seine Tour starten.
+- Es gibt aktuell 10 Linien.
+- Bei jeder Bustour erhält man verschieden viele EXP-Punkte, je höher die Linie desto eine höhere Change auf EXP.
+
 ### Pilot
 
 #### Informationen
