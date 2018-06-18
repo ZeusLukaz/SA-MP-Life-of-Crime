@@ -13,6 +13,13 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 
 ### Pilot
 
+#### Informationen
+
+- Man kann in einem Flugzeug (Beagle, Nevada, AT400 oder Cargobob) seinen Dienst mit '/flug' starten.
+- Je nach Flugfahrzeug Typ gibt es unterschiedliche Aufträge.
+
+#### Bilder
+
 ### Trucker
 
 ### Hochseefischer
@@ -42,6 +49,7 @@ Jedes Unternehmen muss von einen Verkauf 10% Steuern zahlen und falls ein Teilha
 ### Tankstellen
 
 #### Informationen
+
 - Tankstellen gibt es überall in San Andreas, man kann an diesen sein Fahrzeug Tanken Reparieren und einen Kanister kaufen.
 - Als Besitzer einer Tankstelle kann man den Liter, Reparatur und Kanister Preis anpassen.
 
@@ -54,6 +62,7 @@ Jedes Unternehmen muss von einen Verkauf 10% Steuern zahlen und falls ein Teilha
 - Pro Reparatur 15 Produkte
 
 #### Preis Tabelle
+
 - Mindest Bezugspreis
 - Maximaler Bezugspreis
 - Mindest Liter Preis
@@ -62,6 +71,7 @@ Jedes Unternehmen muss von einen Verkauf 10% Steuern zahlen und falls ein Teilha
 - Maximaler Reparatur Preis
 
 #### Standorte
+
 - Elmerald Isle
 - Temple
 - Idleewood
