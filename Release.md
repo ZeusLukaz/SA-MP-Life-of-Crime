@@ -54,6 +54,11 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 
 #### Informationen
 
+- Als Holzfäller kann man in den Wäldern rund um San Andreas Bäume fällen.
+- Zur Sicherheit erhällt man nur mit den Beruf in einem offiziellen Wald eine Kettensäge.
+- Je nach Skill Level kann man in Wälder mit besseren Bäumen.
+- Je besser der Baum und die Qualität desto mehr Geld erhällt man.
+
 ### Müllfahrer
 
 #### Informationen
@@ -73,9 +78,13 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 
 #### Informationen
 
+- Als Detektiv kann man Spieler suchen.
+
 ### Anwalt
 
 #### Informationen
+
+- Als Anwalt kann man Spieler aus dem Gefänniss befreien.
 
 ### Farmer
 
