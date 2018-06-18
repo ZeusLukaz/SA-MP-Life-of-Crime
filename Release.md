@@ -6,10 +6,10 @@
 
 ## Features
 
-### Berufe
+## Berufe
 
-#### Fraktionen
+## Fraktionen
 
-##### Immobilien
+## Immobilien
 
-###### Unternehmen
+## Unternehmen
