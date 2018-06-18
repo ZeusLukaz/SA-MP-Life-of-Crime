@@ -92,6 +92,16 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 
 - Dieser Beruf ist noch in bearbeitung.
 
+## Nebenberufe
+
+### Grass Dealer
+
+### Meth Dealer
+
+### Kokain Dealer
+
+### Waffendealer
+
 ## Fraktionen
 
 ## Immobilien
