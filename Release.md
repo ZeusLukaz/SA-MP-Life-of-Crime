@@ -104,7 +104,15 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 
 ### Meth Dealer
 
+- Um Methamphetamin herzustellen wird ein Wohnwagen und Koch Equipment benötigt.
+- Das Koch Equipment kann man im 24/7 kaufen der Preis variiert je nach Besitzer einstellung.
+- Polizisten können Methamphetamin beschlagnahmen, während und nach dem Kochen.
+
 ### Kokain Dealer
+
+- Um Kokain zu erhalten muss man in Chinatown San Fierro eine Lieferung bestellen, danach erhält man eine Flare und eine Abwurfzone.
+- Sobald man an einer Abwurfzone ist, muss man die Flare zünden, und 2 Minuten warten bis eine Tasche abgeworfen wird.
+- Die Abwurfzonen werden zufällig in San Andreas erstellt.
 
 ### Waffendealer
 
