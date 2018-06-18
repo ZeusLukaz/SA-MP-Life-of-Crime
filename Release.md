@@ -116,6 +116,12 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 
 ### Waffendealer
 
+### Pizzalieferant
+
+- Man kann rund um San Andreas an Pizza Stack Hauptfilialen einen Roller nehmen und diesen mit Pizzen beladen.
+- Sobald man Pizzen geladen hat kann man diese an Kunden in ganz San Andreas liefern.
+- Kunden geben gelegentlich auch Trinkgelder.
+
 ## Fraktionen
 
 ## Immobilien
