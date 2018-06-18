@@ -20,21 +20,22 @@ Man kann Maximal 1 Unternehmen besitzen.
 
 Jedes Unternehmen muss von einen Verkauf 10% Steuern zahlen und falls ein Teilhaber vorhanden ist nochmal 10% an diesen.
 
-[tabmenu]
-[tab='Tankstellen', 'http://puu.sh/kDyWL/e251c7d7aa.png']
-[subtab='Informationen', 'http://puu.sh/kDyWL/e251c7d7aa.png']
+#### Tankstellen
+
+##### Informationen
 Tankstellen gibt es überall in San Andreas, man kann an diesen sein Fahrzeug Tanken Reparieren und einen Kanister kaufen.
 
 Als Besitzer einer Tankstelle kann man den Liter, Reparatur und Kanister Preis anpassen.
 
-[subtab='Produkt Tabelle', 'http://puu.sh/kDyWL/e251c7d7aa.png']
+##### Produkt Tabelle
+
 Maximale Produkte 10000
 
 Pro Liter 1 Produkt
 Pro Kanister 20 Produkte
 Pro Reparatur 15 Produkte
 
-[subtab='Preis Tabelle', 'http://puu.sh/kDyWL/e251c7d7aa.png']
+##### Preis Tabelle
 Mindest Bezugspreis
 Maximaler Bezugspreis
 Mindest Liter Preis
@@ -42,7 +43,7 @@ Maximaler Liter Preis
 Maximaler Kanister Preis
 Maximaler Reparatur Preis
 
-[subtab='Standorte', 'http://puu.sh/kDyWL/e251c7d7aa.png']
+##### Standorte
 Elmerald Isle
 Temple
 Idleewood
@@ -65,31 +66,36 @@ Come-A-Lot
 Spinybed
 
 
-[tab='Paynspray', 'http://puu.sh/kDyWL/e251c7d7aa.png']
-[subtab='Informationen', 'http://puu.sh/kDyWL/e251c7d7aa.png']
+#### Paynspray
+
+##### Informationen
 Paynspray Garagen gibt es überall in San Andreas an den selben Positionen wie im Singleplayer.
 
 Als Besitzer des Paynspray Unternehmens kann man den Reparatur Preis festlegen.
 
-[subtab='Produkt Tabelle', 'http://puu.sh/kDyWL/e251c7d7aa.png']
+##### Produkt Tabelle
 Maximale Produkte 2500
 
 Pro Reparatur 1 Produkt
 
-[subtab='Preis Tabelle', 'http://puu.sh/kDyWL/e251c7d7aa.png']
+##### Preis Tabelle
 Mindest Bezugspreis
 Maximaler Bezugspreis
 Reparatur Preis
-[subtab='Standort', 'http://puu.sh/kDyWL/e251c7d7aa.png']
+
+##### Standort
 Las Venturas White Wood Estates
 
-[tab='Ammunation', 'http://puu.sh/kDyWL/e251c7d7aa.png']
-[subtab='Informationen', 'http://puu.sh/kDyWL/e251c7d7aa.png']
+#### Ammunation
+
+##### Informationen
+
 Es gibt 3 Ammunation in San Andreas, man kann dort verschiedene Waffen und eine Leichte Kevlar (50%) erwerben (Waffenschein wird benötigt).
 
 Als Besitzer des Ammunation kann man jeden Waffen Preis so wie den Leichten Kevlar Preis bestimmen.
 
-[subtab='Produkt Tabelle', 'http://puu.sh/kDyWL/e251c7d7aa.png']
+##### Produkt Tabelle
+
 Maximale Produkte7500
 
 Pro Deagle 5 Produkte
@@ -101,7 +107,8 @@ Pro AK-47 20 Produkte
 Pro Gewehr 25 Produkte
 Pro Leichte Kevlar 25 Produkte
 
-[subtab='Preis Tabelle', 'http://puu.sh/kDyWL/e251c7d7aa.png']
+##### Preis Tabelle
+
 Mindest Bezugspreis
 Maximaler Bezugspreis
 Maximaler Deagle Preis
@@ -113,58 +120,69 @@ Maximaler AK-47 Preis
 Maximaler Gewehr Preis
 Maximaler Leichte Kevlar Preis
 
-[subtab='Standorte', 'http://puu.sh/kDyWL/e251c7d7aa.png']
+##### Standorte
+
 Los Santos Downtown
 San Fierro Ocean Flats
 Las Venturas Come-A-Lot
 
-[tab='Paintball', 'http://puu.sh/kDyWL/e251c7d7aa.png']
-[subtab='Informationen', 'http://puu.sh/kDyWL/e251c7d7aa.png']
+#### Paintball
+
+##### Informationen
+
 Es gibt 3 Paintball Arenen in San Andreas, in welchen man gegen andere Spieler kämpfen kann pro tot erhält man einen Minus Punkt so wie für jeden Abschuss einen Plus Punkt.
 
 Als Besitzer einer Paintball Arena kann man den Eintrittspreis die Arena und das Waffenset bestimmen.
 
-[subtab='Produkt Tabelle', 'http://puu.sh/kDyWL/e251c7d7aa.png']
+##### Produkt Tabelle
+
 Maximale Produkte 1000
 
 Pro Eintritt 1 Produkt
 
-[subtab='Preis Tabelle', 'http://puu.sh/kDyWL/e251c7d7aa.png']
+##### Preis Tabelle
+
 Mindest Bezugspreis
 Maximaler Bezugspreis
 Maximaler Eintrittspreis
 
-[subtab='Standorte', 'http://puu.sh/kDyWL/e251c7d7aa.png']
+##### Standorte
+
 Los Santos Vinewood
 San Fierro Financial
 Las Venturas Redsands West
 
-[tab='Stromwerk', 'http://puu.sh/kDyWL/e251c7d7aa.png']
-[subtab='Informationen', 'http://puu.sh/kDyWL/e251c7d7aa.png']
+#### Stromwerk
+
+##### Informationen
 Es gibt 2 Stromwerke in San Andreas, als Hausbesitzer kann man den Strom Vertrag ändern falls das Unternehmen einen Besitzer hat.
 
 Als Besitzer eines Stromwerkes kann man die Preise der Apartments, Häuser und Villen bestimmen welche jeder Besitzer pro PayDay zahlen muss.
 
-[subtab='Produkt Tabelle', 'http://puu.sh/kDyWL/e251c7d7aa.png']
+##### Produkt Tabelle
+
 Maximale Produkte 2500
 
 Pro Apartment 1 Produkt
 Pro Haus 2 Produkte
 Pro Villa 5 Produkte
 
-[subtab='Preis Tabelle', 'http://puu.sh/kDyWL/e251c7d7aa.png']
-Mindest Bezugspreis
+##### Preis Tabelle
+
 Maximaler Bezugspreis
 Maximaler Apartment Preis
 Maximaler Haus Preis
 Maximaler Villa Preis
 
-[subtab='Standorte', 'http://puu.sh/kDyWL/e251c7d7aa.png']
+##### Standorte
+
 Los Santos Ocean Docks
 San Fierro Missionary Hill
 
-[tab='Lottery', 'http://puu.sh/kDyWL/e251c7d7aa.png']
-[subtab='Informationen', 'http://puu.sh/kDyWL/e251c7d7aa.png']
+#### Lottery
+
+##### Informationen
+
 Wenn die Lottery einen Besitzer hat wird jede Stunde (z.B. 10:02) eine Lottoziehung stattfinden.
 
 Ist man der Besitzer der Lottery ist kann man den Lotterieschein Preis bestimmen.
@@ -177,25 +195,30 @@ Preis - (10% Teilhaber falls vorhanden)
 
 Sprich bei einen Preis von 1000$ gehen 650$ in den Jackpot 100$ in die Staatskasse 100$ an den Teilhaber und 150$ in die Unternehmens Kasse.
 
-[subtab='Produkt Tabelle', 'http://puu.sh/kDyWL/e251c7d7aa.png']
+##### Produkt Tabelle
+
 Maximale Produkte 7500
 
 Pro Ticket 1 Produkt
 
-[subtab='Preis Tabelle', 'http://puu.sh/kDyWL/e251c7d7aa.png']
+##### Preis Tabelle
+
 Mindest Bezugspreis
 Maximaler Bezugspreis
 Maximaler Ticket Preis
 
-[subtab='Standort', 'http://puu.sh/kDyWL/e251c7d7aa.png']
+##### Standort
 
-[tab='24/7', 'http://puu.sh/kDyWL/e251c7d7aa.png']
-[subtab='Informationen', 'http://puu.sh/kDyWL/e251c7d7aa.png']
+#### 24/7
+
+##### Informationen
+
 Es gibt in ganz San Andreas 24/7 Läden in welchen man verschiedene dinge wie z.B ein Erste-Hilfe Kasten kaufen kann.
 
 Als Besitzer des 24/7 kann man die Preise aller Produkte bestimmen.
 
-[subtab='Produkt Tabelle', 'http://puu.sh/kDyWL/e251c7d7aa.png']
+##### Produkt Tabelle
+
 Maximale Produkte 5000
 
 Pro Erstehilfe 1 Produkt
@@ -203,7 +226,8 @@ Pro Brecheisen 2 Produkte
 Pro Bohrer 5 Produkte
 Pro Laptop 10 Produkte
 
-[subtab='Preis Tabelle', 'http://puu.sh/kDyWL/e251c7d7aa.png']
+##### Preis Tabelle
+
 Mindest Bezugspreis
 Maximaler Bezugspreis
 Maximaler Erstehilfe Preis
@@ -211,23 +235,28 @@ Maximaler Brecheisen Preis
 Maximaler Bohrer Preis
 Maximaler Laptop Preis
 
-[subtab='Standorte', 'http://puu.sh/kDyWL/e251c7d7aa.png']
+##### Standorte
+
 Los Santos Market
 
-[tab='Handy Unternehmen', 'http://puu.sh/kDyWL/e251c7d7aa.png']
-[subtab='Informationen', 'http://puu.sh/kDyWL/e251c7d7aa.png']
+#### Handy Unternehmen
+
+##### Informationen
+
 Es gibt 3 Handy Unternehmen in San Andreas, um einen Vertrag abzuschließen muss das Unternehmen einen Besitzer haben.
 
 Als Besitzer eines Handy Unternehmens kann man den Sms und Minuten Preis bestimmen.
 
-[subtab='Produkt Tabelle', 'http://puu.sh/kDyWL/e251c7d7aa.png']
+##### Produkt Tabelle
+
 Maximale Produkte10000
 
 Pro Minuten 1 Produkt
 Pro Sms 2 Produkte
 Pro Neuer Handynummer 10 Produkte
 
-[subtab='Preis Tabelle', 'http://puu.sh/kDyWL/e251c7d7aa.png']
+##### Preis Tabelle
+
 Maximale Produkte10000
 
 Mindest Bezugspreis$
@@ -236,37 +265,46 @@ Maximaler Minuten Preis
 Maximaler Sms Preis
 Maximaler Nummer Preis
 
-[subtab='Standort', 'http://puu.sh/kDyWL/e251c7d7aa.png']
+##### Standort
+
 Los Santos Downtown
 San Fierro Downtown
 Las Venturas The Emerald Isle
 
-[tab='Werbeagentur', 'http://puu.sh/kDyWL/e251c7d7aa.png']
-[subtab='Informationen', 'http://puu.sh/kDyWL/e251c7d7aa.png']
+#### Werbeagentur
+
+##### Informationen
+
 Wenn die Werbeagentur einen Besitzer hat kann alle 60 Sekunden eine Werbung per /ad geschalten werden.
 
 Ist man der Besitzer der Werbeagentur kann man den preis pro 5 Buchstaben bestimmen.
 
-[subtab='Produkt Tabelle', 'http://puu.sh/kDyWL/e251c7d7aa.png']
+##### Produkt Tabelle
+
 Maximale Produkte 7500
 
 Pro 5 Buchstaben 1 Produkt
 
-[subtab='Preis Tabelle', 'http://puu.sh/kDyWL/e251c7d7aa.png']
+##### Preis Tabelle
+
 Mindest Bezugspreis
 Maximaler Bezugspreis
 Maximaler Buchstaben Preis
 
-[subtab='Standort', 'http://puu.sh/kDyWL/e251c7d7aa.png']
-Los Santos Rodeo
+##### Standort
 
-[tab='Bars', 'http://puu.sh/kDyWL/e251c7d7aa.png']
-[subtab='Informationen', 'http://puu.sh/kDyWL/e251c7d7aa.png']
+Los Santos
+
+#### Bars
+
+##### Informationen
+
 Es gibt 3 verschiedene Bars in San Andreas Alhambra, Plasure Domes und Big Spread Range.
 
 Als Besitzer einer Bar kann man den Eintritts, Bier, Vodka und Whiskey Preis bestimmen.
 
-[subtab='Produkt Tabelle', 'http://puu.sh/kDyWL/e251c7d7aa.png']
+##### Produkt Tabelle
+
 Maximale Produkte 2500
 
 Pro Eintritt 5 Produkte
@@ -274,7 +312,8 @@ Pro Bier 1 Produkt
 Pro Vodka 2 Produkte
 Pro Whiskey 2 Produkte
 
-[subtab='Preis Tabelle', 'http://puu.sh/kDyWL/e251c7d7aa.png']
+##### Preis Tabelle
+
 Mindest Bezugspreis
 Maximaler Bezugspreis
 Maximaler Eintrittspreis
@@ -282,8 +321,8 @@ Maximaler Bier Preis
 Maximaler Vodka Preis
 Maximaler Whiskey Preis
 
-[subtab='Standorte', 'http://puu.sh/kDyWL/e251c7d7aa.png']
+##### Standorte
+
 Los Santos Alhambra
 San Fierro Plasure Domes
 Las Venturas Big Spread Range
-[/tabmenu]
