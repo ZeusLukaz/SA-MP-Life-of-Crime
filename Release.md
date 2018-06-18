@@ -66,6 +66,9 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 
 #### Informationen
 
+- Taxifahrer Fahrzeuge stehen am Los Santos Airport.
+- Als Taxifahrer kann man zwischen 1$ und maximal 100$ pro Kilometer verlangen.
+
 ### Detektiv
 
 #### Informationen
