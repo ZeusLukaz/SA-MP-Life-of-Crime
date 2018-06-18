@@ -116,6 +116,10 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 
 ### Waffendealer
 
+- Man kann bis zu 15 Materialien Packete bestellen, welche an einem zufälligen übergabeort abholen kann.
+- Pro Materialien Packet erhällt man 50 Materialien.
+- Der Materialien Packet Preis liegt bei 200$.
+
 ### Pizzalieferant
 
 - Man kann rund um San Andreas an Pizza Stack Hauptfilialen einen Roller nehmen und diesen mit Pizzen beladen.
