@@ -96,6 +96,12 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 
 ### Grass Dealer
 
+- Als Grass Dealer kann man Marihuana Samen für 500$/Stk erwerben.
+- Marihuana Samen können überall in San Andreas gepflanzt werden.
+- Aus einen Marihuana Samen kann zwischen 1g und 3g Grass gewonnen werden.
+- Die heranwachsenden Marihuana Samen können von der Polizei beschlagnahmt werden oder von anderen gestohlen werden.
+- Samen dürfen nicht an unerreichbaren/unrealistischen Stellen gepflanzt werden.
+
 ### Meth Dealer
 
 ### Kokain Dealer
