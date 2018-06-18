@@ -25,12 +25,22 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 - Je nach Flugfahrzeug Typ gibt es unterschiedliche Aufträge.
 
 ### Trucker
-
 #### Informationen
+
+- Als Trucker kann man alle Unternehmen in San Andreas beliefern.
+- Jede Wahre wird mit dem Eigenkapital finaziert, diese kann zu dem eingestellten Bezugspreis des Unternehmens verkauft werden.
+- Sollte diese während der Fahrt die Wahre verloren gehen gibt es keine erstattung.
+- Es stehen mehrere Trucks zur verfügung welche per Skill Level freigeschaltet werden müssen.
+- Je nach Truck kann man Benzin, Produkte usw. laden.
 
 ### Hochseefischer
 
 #### Informationen
+
+- Es gibt 2 verschiedene Fischerboote welche mit einen Skill Level freigeschaltet werden können.
+- Die Fischerboote haben unterschiedlichen Laderaum 1500 Fische und 2500 Fische.
+- Als Hochseefischer kann man bis zu 5 Reusen auswerfen, diese müssen mindestens 750 Meter voneinander entfernt sein.
+- Reusen können frühestens nach 5 Minuten eingezogen werden.
 
 ### Holzfäller
 
