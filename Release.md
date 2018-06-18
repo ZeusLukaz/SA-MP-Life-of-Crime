@@ -24,7 +24,15 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 - Man kann in einem Flugzeug (Beagle, Nevada, AT400 oder Cargobob) seinen Dienst mit '/flug' starten.
 - Je nach Flugfahrzeug Typ gibt es unterschiedliche Aufträge.
 
+### Zugfahrer
+
+#### Informationen
+
+- Als zugfahrer fährt man sämmtliche Personen und Ladungen durch den Gleisverkeht von San Andreas.
+- Die Züge sind meistens an der Lindenstation in Las Venturas zu finden.
+
 ### Trucker
+
 #### Informationen
 
 - Als Trucker kann man alle Unternehmen in San Andreas beliefern.
