@@ -2,29 +2,27 @@
   <img src="https://github.com/ZeusLukaz/SA-MP-Life-of-Crime/blob/Images/Logo.png" alt="LoC Logo"/>
 </p>
 
-# Life of Crime Release Informationen
+# Features
 
-## Features
+## Berufe
 
-### Berufe
+## Fraktionen
 
-### Fraktionen
+## Immobilien
 
-### Immobilien
-
-### Unternehmen
+## Unternehmen
 
 Man kann Maximal 1 Unternehmen besitzen.
 
 Jedes Unternehmen muss von einen Verkauf 10% Steuern zahlen und falls ein Teilhaber vorhanden ist nochmal 10% an diesen.
 
-#### Tankstellen
+### Tankstellen
 
-##### Informationen
+#### Informationen
 - Tankstellen gibt es überall in San Andreas, man kann an diesen sein Fahrzeug Tanken Reparieren und einen Kanister kaufen.
 - Als Besitzer einer Tankstelle kann man den Liter, Reparatur und Kanister Preis anpassen.
 
-##### Produkt Tabelle
+#### Produkt Tabelle
 
 - Maximale Produkte 10000
 
@@ -32,7 +30,7 @@ Jedes Unternehmen muss von einen Verkauf 10% Steuern zahlen und falls ein Teilha
 - Pro Kanister 20 Produkte
 - Pro Reparatur 15 Produkte
 
-##### Preis Tabelle
+#### Preis Tabelle
 - Mindest Bezugspreis
 - Maximaler Bezugspreis
 - Mindest Liter Preis
@@ -40,7 +38,7 @@ Jedes Unternehmen muss von einen Verkauf 10% Steuern zahlen und falls ein Teilha
 - Maximaler Kanister Preis
 - Maximaler Reparatur Preis
 
-##### Standorte
+#### Standorte
 - Elmerald Isle
 - Temple
 - Idleewood
@@ -63,37 +61,37 @@ Jedes Unternehmen muss von einen Verkauf 10% Steuern zahlen und falls ein Teilha
 - Spinybed
 
 
-#### Paynspray
+### Paynspray
 
-##### Informationen
+#### Informationen
 
 - Paynspray Garagen gibt es überall in San Andreas an den selben Positionen wie im Singleplayer.
 - Als Besitzer des Paynspray Unternehmens kann man den Reparatur Preis festlegen.
 
-##### Produkt Tabelle
+#### Produkt Tabelle
 
 - Maximale Produkte 2500
 - Pro Reparatur 1 Produkt
 
-##### Preis Tabelle
+#### Preis Tabelle
 
 - Mindest Bezugspreis
 - Maximaler Bezugspreis
 - Reparatur Preis
 
-##### Standort
+#### Standort
 
 - Las Venturas White Wood Estates
 
-#### Ammunation
+### Ammunation
 
-##### Informationen
+#### Informationen
 
 - Es gibt 3 Ammunation in San Andreas, man kann dort verschiedene Waffen und eine Leichte Kevlar (50%) erwerben (Waffenschein wird benötigt).
 
 - Als Besitzer des Ammunation kann man jeden Waffen Preis so wie den Leichten Kevlar Preis bestimmen.
 
-##### Produkt Tabelle
+#### Produkt Tabelle
 
 - Maximale Produkte7500
 
@@ -106,7 +104,7 @@ Jedes Unternehmen muss von einen Verkauf 10% Steuern zahlen und falls ein Teilha
 - Pro Gewehr 25 Produkte
 - Pro Leichte Kevlar 25 Produkte
 
-##### Preis Tabelle
+#### Preis Tabelle
 
 - Mindest Bezugspreis
 - Maximaler Bezugspreis
@@ -119,44 +117,44 @@ Jedes Unternehmen muss von einen Verkauf 10% Steuern zahlen und falls ein Teilha
 - Maximaler Gewehr Preis
 - Maximaler Leichte Kevlar Preis
 
-##### Standorte
+#### Standorte
 
 - Los Santos Downtown
 - San Fierro Ocean Flats
 - Las Venturas Come-A-Lot
 
-#### Paintball
+### Paintball
 
-##### Informationen
+#### Informationen
 
 - Es gibt 3 Paintball Arenen in San Andreas, in welchen man gegen andere Spieler kämpfen kann pro tot erhält man einen Minus Punkt so wie für jeden Abschuss einen Plus Punkt.
 
 - Als Besitzer einer Paintball Arena kann man den Eintrittspreis die Arena und das Waffenset bestimmen.
 
-##### Produkt Tabelle
+#### Produkt Tabelle
 
 - Maximale Produkte 1000
 - Pro Eintritt 1 Produkt
 
-##### Preis Tabelle
+#### Preis Tabelle
 
 - Mindest Bezugspreis
 - Maximaler Bezugspreis
 - Maximaler Eintrittspreis
 
-##### Standorte
+#### Standorte
 
 - Los Santos Vinewood
 - San Fierro Financial
 - Las Venturas Redsands West
 
-#### Stromwerk
+### Stromwerk
 
-##### Informationen
+#### Informationen
 - Es gibt 2 Stromwerke in San Andreas, als Hausbesitzer kann man den Strom Vertrag ändern falls das Unternehmen einen Besitzer hat.
 - Als Besitzer eines Stromwerkes kann man die Preise der Apartments, Häuser und Villen bestimmen welche jeder Besitzer pro PayDay zahlen muss.
 
-##### Produkt Tabelle
+#### Produkt Tabelle
 
 - Maximale Produkte 2500
 
@@ -164,21 +162,21 @@ Jedes Unternehmen muss von einen Verkauf 10% Steuern zahlen und falls ein Teilha
 - Pro Haus 2 Produkte
 - Pro Villa 5 Produkte
 
-##### Preis Tabelle
+#### Preis Tabelle
 
 - Maximaler Bezugspreis
 - Maximaler Apartment Preis
 - Maximaler Haus Preis
 - Maximaler Villa Preis
 
-##### Standorte
+#### Standorte
 
 - Los Santos Ocean Docks
 - San Fierro Missionary Hill
 
-#### Lottery
+### Lottery
 
-##### Informationen
+#### Informationen
 
 - Wenn die Lottery einen Besitzer hat wird jede Stunde (z.B. 10:02) eine Lottoziehung stattfinden.
 - Ist man der Besitzer der Lottery ist kann man den Lotterieschein Preis bestimmen.
@@ -190,28 +188,28 @@ Jedes Unternehmen muss von einen Verkauf 10% Steuern zahlen und falls ein Teilha
 
 - Sprich bei einen Preis von 1000$ gehen 650$ in den Jackpot 100$ in die Staatskasse 100$ an den Teilhaber und 150$ in die Unternehmens Kasse.
 
-##### Produkt Tabelle
+#### Produkt Tabelle
 
 - Maximale Produkte 7500
 
 - Pro Ticket 1 Produkt
 
-##### Preis Tabelle
+#### Preis Tabelle
 
 - Mindest Bezugspreis
 - Maximaler Bezugspreis
 - Maximaler Ticket Preis
 
-##### Standort
+#### Standort
 
-#### 24/7
+### 24/7
 
-##### Informationen
+#### Informationen
 
 - Es gibt in ganz San Andreas 24/7 Läden in welchen man verschiedene dinge wie z.B ein Erste-Hilfe Kasten kaufen kann.
 - Als Besitzer des 24/7 kann man die Preise aller Produkte bestimmen.
 
-##### Produkt Tabelle
+#### Produkt Tabelle
 
 - Maximale Produkte 5000
 
@@ -220,7 +218,7 @@ Jedes Unternehmen muss von einen Verkauf 10% Steuern zahlen und falls ein Teilha
 - Pro Bohrer 5 Produkte
 - Pro Laptop 10 Produkte
 
-##### Preis Tabelle
+#### Preis Tabelle
 
 - Mindest Bezugspreis
 - Maximaler Bezugspreis
@@ -229,18 +227,18 @@ Jedes Unternehmen muss von einen Verkauf 10% Steuern zahlen und falls ein Teilha
 - Maximaler Bohrer Preis
 - Maximaler Laptop Preis
 
-##### Standorte
+#### Standorte
 
 - Los Santos Market
 
-#### Handy Unternehmen
+### Handy Unternehmen
 
-##### Informationen
+#### Informationen
 
 - Es gibt 3 Handy Unternehmen in San Andreas, um einen Vertrag abzuschließen muss das Unternehmen einen Besitzer haben.
 - Als Besitzer eines Handy Unternehmens kann man den Sms und Minuten Preis bestimmen.
 
-##### Produkt Tabelle
+#### Produkt Tabelle
 
 - Maximale Produkte10000
 
@@ -248,7 +246,7 @@ Jedes Unternehmen muss von einen Verkauf 10% Steuern zahlen und falls ein Teilha
 - Pro Sms 2 Produkte
 - Pro Neuer Handynummer 10 Produkte
 
-##### Preis Tabelle
+#### Preis Tabelle
 
 - Maximale Produkte10000
 
@@ -258,43 +256,43 @@ Jedes Unternehmen muss von einen Verkauf 10% Steuern zahlen und falls ein Teilha
 - Maximaler Sms Preis
 - Maximaler Nummer Preis
 
-##### Standort
+#### Standort
 
 - Los Santos Downtown
 - San Fierro Downtown
 - Las Venturas The Emerald Isle
 
-#### Werbeagentur
+### Werbeagentur
 
-##### Informationen
+#### Informationen
 
 - Wenn die Werbeagentur einen Besitzer hat kann alle 60 Sekunden eine Werbung per /ad geschalten werden.
 - ist man der Besitzer der Werbeagentur kann man den preis pro 5 Buchstaben bestimmen.
 
-##### Produkt Tabelle
+#### Produkt Tabelle
 
 - Maximale Produkte 7500
 
 - Pro 5 Buchstaben 1 Produkt
 
-##### Preis Tabelle
+#### Preis Tabelle
 
 - Mindest Bezugspreis
 - Maximaler Bezugspreis
 - Maximaler Buchstaben Preis
 
-##### Standort
+#### Standort
 
 - Los Santos
 
-#### Bars
+### Bars
 
-##### Informationen
+#### Informationen
 
 - Es gibt 3 verschiedene Bars in San Andreas Alhambra, Plasure Domes und Big Spread Range.
 - Als Besitzer einer Bar kann man den Eintritts, Bier, Vodka und Whiskey Preis bestimmen.
 
-##### Produkt Tabelle
+#### Produkt Tabelle
 
 - Maximale Produkte 2500
 
@@ -303,7 +301,7 @@ Jedes Unternehmen muss von einen Verkauf 10% Steuern zahlen und falls ein Teilha
 - Pro Vodka 2 Produkte
 - Pro Whiskey 2 Produkte
 
-##### Preis Tabelle
+#### Preis Tabelle
 
 - Mindest Bezugspreis
 - Maximaler Bezugspreis
@@ -312,7 +310,7 @@ Jedes Unternehmen muss von einen Verkauf 10% Steuern zahlen und falls ein Teilha
 - Maximaler Vodka Preis
 - Maximaler Whiskey Preis
 
-##### Standorte
+#### Standorte
 
 - Los Santos Alhambra
 - San Fierro Plasure Domes
