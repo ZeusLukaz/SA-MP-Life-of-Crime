@@ -90,6 +90,8 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 
 #### Informationen
 
+- Dieser Beruf ist noch in bearbeitung.
+
 ## Fraktionen
 
 ## Immobilien
