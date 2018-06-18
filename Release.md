@@ -4,7 +4,8 @@
 
 # Features
 
-Sämtliche Systeme wurden möglichst dynamisch geschrieben, um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
+Sämtliche Systeme wurden möglichst dynamisch per MySQL geschrieben,
+um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 
 ## Berufe
 
