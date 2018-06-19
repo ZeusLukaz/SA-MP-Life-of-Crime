@@ -13,6 +13,7 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 - [Admin System](#admin-system)
 - [Berufe](#berufe)
   - [Busfahrer](#busfahrer)
+    - [Informationen](#informationen )
   - [Pilot](#pilot)
   - [Zugfahrer](#zugfahrer)
   - [Trucker](#trucker)
@@ -70,7 +71,7 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 
 ### Busfahrer
 
-#### Informationen
+#### Informationen 
 
 - Als Busfahrer kann man mit dem Befehl /linie seine Tour starten.
 - Es gibt aktuell 10 Linien.
