@@ -10,12 +10,12 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 ## Table of Contents
 
 - [Anti-Cheat](#anti-cheat)
-- [Admin System](#admin system) 
+- [Admin System](#admin-system) 
 - [Berufe](#berufe) 
 - [Fraktionen](#fraktionen) 
 - [immobilien](#immobilien) 
 - [Unternehmen](#unternehmen) 
-- [Geplante Features](#geplante features) 
+- [Geplante Features](#geplante-features) 
 
 ## Anti-Cheat
 
