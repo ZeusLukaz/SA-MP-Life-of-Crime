@@ -40,6 +40,16 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
   - [Staat](#staat)
 - [immobilien](#immobilien)
 - [Unternehmen](#unternehmen)
+  - [Tankstellen](#tankstellen)
+  - [Paynspray](#paynspray)
+  - [Ammunation](#ammunation)
+  - [Paintball](#paintball)
+  - [Stromwerk](#stromwerkStromwerk)
+  - [Lottery](#lottery)
+  - [24/7](#24/7)
+  - [Handy Unternehmen](#handy-unternehmen)
+  - [Werbeagentur](#werbeagentur)
+  - [Bars](#bars)
 - [Geplante Features](#geplante-features)
 
 ## Anti-Cheat
