@@ -8,13 +8,13 @@ Sämtliche Systeme wurden möglichst dynamisch per MySQL geschrieben,
 um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 
 ## Table of Contents
-- [Anti-Cheat](#Anti-Cheat)
-- [Admin System](#Admin-System)
-- [Berufe](#Berufe)
-- [Fraktionen](#Fraktionen)
-- [immobilien](#immobilien)
-- [Unternehmen](#Unternehmen)
-- [Unternehmen](#Geplante Features)
+- [Anti-Cheat](##Anti-Cheat)
+- [Admin System](##Admin System)
+- [Berufe](##Berufe)
+- [Fraktionen](##Fraktionen)
+- [immobilien](##immobilien)
+- [Unternehmen](##Unternehmen)
+- [Geplante Features](##Geplante Features)
 
 ## Anti-Cheat
 
