@@ -24,7 +24,20 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
   - [Anwalt](#anwalt)
   - [Farmer](#farmer)
 - [Nebenjobs](#nebenjobs)
+  - [Grass Dealer](#grass-dealer)
+  - [Meth Dealer](#meth-dealer)
+  - [Kokain Dealer](#kokain-dealer)
+  - [Waffendealer](#waffendealer)
+  - [Pizzalieferant](#pizzalieferant)
+  - [Angler](#angler)
 - [Fraktionen](#fraktionen)
+  - [Gangs](#gangs)
+  - [Mafien](#mafien)
+  - [Polizei](#polizei)
+  - [Sanitäter](#sanitäter)
+  - [Ordnungsamt](#ordnungsamt)
+  - [News Reporter](#news-reporter)
+  - [Staat](#staat)
 - [immobilien](#immobilien)
 - [Unternehmen](#unternehmen)
 - [Geplante Features](#geplante-features)
@@ -126,7 +139,7 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 
 - Dieser Beruf ist noch in bearbeitung.
 
-## Nebenberufe
+## Nebenjobs
 
 ### Grass Dealer
 
