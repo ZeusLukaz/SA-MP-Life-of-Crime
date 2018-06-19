@@ -11,6 +11,7 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 
 - [Anti-Cheat](#anti-cheat)
 - [Admin System](#admin-system)
+- [Bankraub System](#bankraum-system)
 - [Berufe](#berufe)
   - [Busfahrer](#busfahrer)
   - [Pilot](#pilot)
@@ -63,6 +64,12 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 - Zum Schutz vor Ausnutzen der Admin Befehle werden diese detailliert geloggt, und gleichrangig oder höhere Administratoren sehen Ingame eine Meldung.
 - Zum Schutz können niederrangige Administratoren keine Befehle wie /prison /kick an höherrangigen Administratoren nutzen.
 - Zum Schutz kann ein Administrator falls er im Prison ist kein /goto usw. nutzen.
+
+## Bankraub System
+
+- Um eine Bank auszurauben hat man viele möglichkeiten vorzugehen, z.B. Leise durch Hacken oder laut mit Bohrern und Bomben.
+- Es gibt aktuell 3 Banken in San Andreas welche ausgeraubt werden können.
+- 
 
 ## Berufe
 
