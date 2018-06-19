@@ -7,22 +7,22 @@
 Sämtliche Systeme wurden möglichst dynamisch per MySQL geschrieben,
 um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 
-## Table of Contents
+## Feature Tabelle
 
-- [Anti-Cheat](#anti-cheat
+- [Anti-Cheat](#anti-cheat)
 - [Admin System](#admin-system)
 - [Berufe](#berufe)
- - [Busfahrer](#busfahrer)
- - [Pilot](#pilot)
- - [Zugfahrer](#zugfahrer)
- - [Trucker](#trucker)
- - [Hochseefischer](#hochseefischer)
- - [Holzfäller](#holzfäller)
- - [Müllfahrer](#müllfahrer)
- - [Taxifahrer](#taxifahrer)
- - [Detektiv](#detektiv)
- - [Anwalt](#anwalt)
- - [Farmer](#farmer)
+  - [Busfahrer](#busfahrer)
+  - [Pilot](#pilot)
+  - [Zugfahrer](#zugfahrer)
+  - [Trucker](#trucker)
+  - [Hochseefischer](#hochseefischer)
+  - [Holzfäller](#holzfäller)
+  - [Müllfahrer](#müllfahrer)
+  - [Taxifahrer](#taxifahrer)
+  - [Detektiv](#detektiv)
+  - [Anwalt](#anwalt)
+  - [Farmer](#farmer)
 - [Nebenjobs](#nebenjobs)
 - [Fraktionen](#fraktionen)
 - [immobilien](#immobilien)
