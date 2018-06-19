@@ -15,6 +15,7 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
   - [Busfahrer](#busfahrer)
     - [Informationen](#informationen )
   - [Pilot](#pilot)
+    - [Informationen](#informationen  )
   - [Zugfahrer](#zugfahrer)
   - [Trucker](#trucker)
   - [Hochseefischer](#hochseefischer)
@@ -79,7 +80,7 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 
 ### Pilot
 
-#### Informationen
+#### Informationen  
 
 - Man kann in einem Flugzeug (Beagle, Nevada, AT400 oder Cargobob) seinen Dienst mit '/flug' starten.
 - Je nach Flugfahrzeug Typ gibt es unterschiedliche Aufträge.
