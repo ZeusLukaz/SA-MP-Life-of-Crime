@@ -2,7 +2,7 @@
   <img src="https://github.com/ZeusLukaz/SA-MP-Life-of-Crime/blob/Release/Logo.png" alt="LoC Logo"/>
 </p>
 
-<p class="text-center">...</p>
+<p class="text-center">
 Hey,
 
 Wie in der Überschrift zu lesen ist suche ich Servertester.
