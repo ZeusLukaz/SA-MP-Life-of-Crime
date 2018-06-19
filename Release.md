@@ -524,8 +524,8 @@ Jedes Unternehmen muss von einen Verkauf 10% Steuern zahlen und falls ein Teilha
 
 ## Geplante Features
 
-[] Ein Quest System rund um San Andreas Actore welche unterschiedliche Aufgaben und Belohnungen haben.
-[] Ein Coin System mit welchen man Premium, UBB usw. kaufen kann Coins kann man Ingame verdienen.
-[] Das Kofferraum System überarbeiten wahrscheinlich mit Dialogen.
-[] Eine Waffenscheinprüfung.
-[] /Service eine Funktion Unter dem Radar Detektive sehen 5 Minuten nur noch deine Stadt.
+- [] Ein Quest System rund um San Andreas Actore welche unterschiedliche Aufgaben und Belohnungen haben.
+- [] Ein Coin System mit welchen man Premium, UBB usw. kaufen kann Coins kann man Ingame verdienen.
+- [] Das Kofferraum System überarbeiten wahrscheinlich mit Dialogen.
+- [] Eine Waffenscheinprüfung.
+- [] /Service eine Funktion Unter dem Radar Detektive sehen 5 Minuten nur noch deine Stadt.
