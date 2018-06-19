@@ -2,20 +2,6 @@
   <img src="https://github.com/ZeusLukaz/SA-MP-Life-of-Crime/blob/Release/Logo.png" alt="LoC Logo"/>
 </p>
 
-<p class="tc">
-Hey,
-
-Wie in der Überschrift zu lesen ist suche ich Servertester.
-
-Wir verlangen von den Servertestern nichts weiter auser Geistige Reife, Spaß an SA:MP und etwas Kreativität.
-Wir Bieten die Übernahme zum Supporter, Admin, Head Admin beim Serverstart und Implementierung eigener Ideen.
-
-Wir haben bereits ein Selfmade Script, welches fast spielbereit ist.
-Die Arbeit wurde vor 3 Monaten pausiert, da ich der einzige Scripter bin und wegen meiner Arbeit kaum Zeit fand.
-
-Zu meiner Person mein Name ist Lukas.H ich bin 21 Jahre Jung, und komme aus dem Wunderbaren Freistaat Bayern.
-</p>
-
 # Information
 
 Der Server wurde nie richtig auf Fehlern getestet, deshalb starten wir eine Testphase um mögliche Fehler zu finden, und zu sehen ob Interesse der Community besteht.
