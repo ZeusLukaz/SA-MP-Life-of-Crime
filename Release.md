@@ -12,6 +12,7 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 - [Anti-Cheat](#anti-cheat)
 - [Admin System](#admin-system)
 - [Bankraub System](#bankraub-system)
+- [Gangfight System](#gangfight-system)
 - [Berufe](#berufe)
   - [Busfahrer](#busfahrer)
   - [Pilot](#pilot)
@@ -76,6 +77,14 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 - Sobald man in dem Safe ist kann man Goldbaren stehlen welche auf 2 Tische aufgeteilt sind, der nachteil man kann nur 12 Goldbaren tragen.
 - Sollte man es schafen eine Bank auszurauben müssen die Goldbaren zu einen Schwarzmarkthändler in LS/SF/LV gebracht werden, dieser verkauft die Goldbaren bis zum nächsten PayDay.
 - Sobald ein Banküberfall gestartet wurde hat man maximal 10 Minuten Zeit.
+
+## Gangfight System
+
+- Jede Gang oder Mafia kann an einem Gangfight teilnehmen, der Sieger ist der jenige der zuerst 120 Punkte erreicht oder bei ablauf der Zeit die meisten Punkte hat.
+- In jeder Gangfightzone gibt es 3 Flaggen, jede Flagge bringt in der Minute einen Punkt, sollte der Angreifer oder Verteidiger alle 3 halten erhällt man pro Mord doppelte Punkte.
+- Bei einen Teamkill erhält der Gegner einen Punnkt.
+- Nach einem Gangfight hat die Zone einen Cooldown von 3 Stunden.
+- Jede Zone bringt unterschiedlich viele Einflusspunkte und Geld.
 
 ## Berufe
 
