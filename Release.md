@@ -128,6 +128,64 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 
 ## Fraktionen
 
+#### Informationen
+
+- Das komplette Fraktions System läuft über MySQL, somit können Projektleiter Ingame jederzeit Fraktionen erstellen oder entfernen.
+- Jede Fraktion hat ein Fraktionshaus welches eine normale Immobilie ist, abgesehen von Staatsfraktionen.
+- Aktuell gibt es folgende Fraktions Typen Zivilist, Gang, Mafia, Hitman, Polizei, Sanitäter und Ordnungsamt dazu die extra Kategorie Staat.
+- Je Nachdem eine Fraktion zugewiesen ist hat diese zugriffe auf Funktionen und Befehle.
+- Skins können von Projektleitern jederzeit Ingame einer Fraktion zugewiesen oder entfernt werden.
+
+#### Zivilist
+
+#### Gangs
+
+- Für Gangs gibt es in Los Santos mehrere Graffitis welche Einflusspunkte für die Fraktion bringen.
+- Gangs können wie Mafien alle Geschäfte um San Andreas erpressen.
+- Gangs können wie Mafien an Gangfights rund um San Andreas teilnehmen.
+- Gangs können wie Mafien Gangwars starten beenden und daran teilnehmen.
+- Gangs können wie Mafien Spieler entführen und in eins der zahlreichen Gangjails in San Andreas stecken.
+- Als Leader einer Gang kann man Fraktionsfahrzeuge kaufen/verkaufen oder modifizieren.
+- Als Member einer Gang kann man fraktionsfahrzeuge per GPS finden.
+- Als Leader kann man einmal stündlich seine Fraktions Fahrzeuge respawnen.
+
+#### Mafien
+
+- Mafien können wie Gangs alle Geschäfte um San Andreas erpressen.
+- Mafien können wie Gangs an Gangfights rund um San Andreas teilnehmen.
+- Mafien können wie Gangs Gangwars starten beenden und daran teilnehmen.
+- Mafien können wie Gangs Spieler entführen und in eins der zahlreichen Gangjails in San Andreas stecken.
+- Als Leader einer Gang kann man Fraktionsfahrzeuge kaufen/verkaufen oder modifizieren.
+- Als Member einer Gang kann man fraktionsfahrzeuge per GPS finden.
+- Als Leader kann man einmal stündlich seine Fraktions Fahrzeuge respawnen.
+- Zahlreiche Features wie Kokain Unternehmen sind für Mafien geplant.
+
+#### Polizei
+
+- Als Member kann man fraktionsfahrzeuge per GPS finden.
+- Als Leader kann man einmal stündlich seine Fraktions Fahrzeuge respawnen.
+- Als Leader kann man Fraktionsfahrzeuge kaufen/verkaufen oder modifizieren.
+- Als Polizist ist man stets für recht und Ordnung in San Andreas zuständig, von Banküberfällen bis zur erpresser befreiung.
+
+#### Sanitäter
+
+- Als Member kann man fraktionsfahrzeuge per GPS finden.
+- Als Leader kann man einmal stündlich seine Fraktions Fahrzeuge respawnen.
+- Als Leader kann man Fraktionsfahrzeuge kaufen/verkaufen oder modifizieren.
+- Als Sanitäter sorgt man sich stets um die Gesundheit der anderen Spielern von leichten Verletzungen bis zu Schussverletzungen.
+
+#### Ordnungsamt
+
+- Als Member kann man fraktionsfahrzeuge per GPS finden.
+- Als Leader kann man einmal stündlich seine Fraktions Fahrzeuge respawnen.
+- Als Leader kann man Fraktionsfahrzeuge kaufen/verkaufen oder modifizieren.
+- Als Ordnungsamt Beamter sorgt man auf den Straßen von San Andreas für ordnung.
+
+#### Staat
+
+- Als Staatsfraktion hat man zugriff auf dem Radio Chat.
+- Als Staatsfraktion hat man zugriff auf Zahlreiche extra Befehle.
+
 ## Immobilien
 
 ## Unternehmen
