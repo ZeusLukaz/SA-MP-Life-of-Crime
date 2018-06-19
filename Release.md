@@ -126,6 +126,11 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 - Sobald man Pizzen geladen hat kann man diese an Kunden in ganz San Andreas liefern.
 - Kunden geben gelegentlich auch Trinkgelder.
 
+### Angler
+
+- Als Angler kann man an vorgesehenen Pläten Angeln.
+- Diese Fische kann man in einem Pizza Stack, Burger Shot, Cluckin Bell, Kochen und essen oder in einem 24/7 verkaufen.
+
 ## Fraktionen
 
 #### Informationen
@@ -193,6 +198,8 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 - Immobielien bieten zukünftig auch den Spawnpunkt seiner Organisation falls man das möchte.
 - Nach freien Immobielien kann man in der Stadthalle Los Santos sehen, dort kann man eine Innenansicht sowie Außenansicht machen und sich ein GPS setzen lassen.
 - Folgende Immobilienpreise gibt es Apartment: 150.000$ | Haus 300.000$ | Villa: 1.000.000$ | MadDog Villa: 3.000.000$
+- Immobilien werden nach 2 Wochen Inaktivität automatisch am Server Restart freigestellt.
+- Man kann sich in jede Immobilie eine/n Tänzer bestellen welchen man danach verschiedene Tänze befehlen kann vorausgesetzt man ist der Besitzer.
 
 ## Unternehmen
 
