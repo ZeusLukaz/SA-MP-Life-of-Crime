@@ -2,6 +2,12 @@
   <img src="https://github.com/ZeusLukaz/SA-MP-Life-of-Crime/blob/Release/Logo.png" alt="LoC Logo"/>
 </p>
 
+# Information
+
+Der Server wurde nie richtig auf Fehlern getestet, deshalb starten wir eine Testphase um mögliche Fehler zu finden, und zu sehen ob Interesse der Community besteht.
+
+Natürlich ist mir bewusst das es in Deutschland keinen San Andreas Multiplayer Server geben wird mit permanent 150+ Spielern.
+
 # Features
 
 Sämtliche Systeme wurden möglichst dynamisch per MySQL geschrieben,
