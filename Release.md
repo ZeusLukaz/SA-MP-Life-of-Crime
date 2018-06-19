@@ -72,6 +72,7 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 - Um eine Bank zu Hacken wird der ein Skill Level benötigt, dieser macht es möglich eine geringere Change zu haben den Alarm auszulösen.
 - Sollte man eine Bank hacken muss man zuerst die Sicherheitssysteme (Laser) hacken, und danach den Safe.
 - Der Safe kann mit einen Bohrer oder einer Haftbombe geöffnet werden, falls man nicht den nötigen Skill Level zum Hacken hat.
+- Polizisten können die Haftbomben oder Bohrer entfernen.
 - Sobald man in dem Safe ist kann man Goldbaren stehlen welche auf 2 Tische aufgeteilt sind, der nachteil man kann nur 12 Goldbaren tragen.
 - Sollte man es schafen eine Bank auszurauben müssen die Goldbaren zu einen Schwarzmarkthändler in LS/SF/LV gebracht werden, dieser verkauft die Goldbaren bis zum nächsten PayDay.
 - Sobald ein Banküberfall gestartet wurde hat man maximal 10 Minuten Zeit.
