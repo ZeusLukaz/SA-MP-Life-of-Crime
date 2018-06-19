@@ -11,7 +11,7 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 
 - [Anti-Cheat](#anti-cheat)
 - [Admin System](#admin-system)
-- [Bankraub System](#bankraum-system)
+- [Bankraub System](#bankraub-system)
 - [Berufe](#berufe)
   - [Busfahrer](#busfahrer)
   - [Pilot](#pilot)
