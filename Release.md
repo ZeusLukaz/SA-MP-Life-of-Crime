@@ -99,6 +99,7 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 - Jeder Pizza Stack, Cluckin Bell, Burger Shot, Zip oder Binco kann erpresst werden.
 - Um ein Geschäft zu erpressen muss ein Fraktionsmitglied dieses angreifen, danach muss mindestens 1 Fraktionsmitglied dieser Fraktion 5 Minuten lang in einem Radius von 250 Meter am geschäft sein.
 - Sollte man ein Geschäft erpressen werden alle einkäufe von Spielern in die Kasse eingezahlt, diese können dann von einen Fraktionsmitglied der erpresser abgeholt werden, das Geld wird dann in die Fraktionskasse eingezahlt.
+- Sollte ein geschäft von der Polizei geschützt werden gehen alle Einnahmen in die Staatskasse.
 
 ## Berufe
 
