@@ -9,13 +9,13 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 
 ## Table of Contents
 
-- [Anti-Cheat](Release.md#Anti-Cheat)
-- [Admin System](#Admin System) 
-- [Berufe](#Berufe) 
-- [Fraktionen](#Fraktionen) 
+- [Anti-Cheat](#anti-cheat)
+- [Admin System](#admin system) 
+- [Berufe](#berufe) 
+- [Fraktionen](#fraktionen) 
 - [immobilien](#immobilien) 
-- [Unternehmen](#Unternehmen) 
-- [Geplante Features](#Geplante Features) 
+- [Unternehmen](#unternehmen) 
+- [Geplante Features](#geplante features) 
 
 ## Anti-Cheat
 
