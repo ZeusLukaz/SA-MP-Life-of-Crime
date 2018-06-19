@@ -136,8 +136,6 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 - Je Nachdem eine Fraktion zugewiesen ist hat diese zugriffe auf Funktionen und Befehle.
 - Skins können von Projektleitern jederzeit Ingame einer Fraktion zugewiesen oder entfernt werden.
 
-#### Zivilist
-
 #### Gangs
 
 - Für Gangs gibt es in Los Santos mehrere Graffitis welche Einflusspunkte für die Fraktion bringen.
@@ -187,6 +185,14 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 - Als Staatsfraktion hat man zugriff auf Zahlreiche extra Befehle.
 
 ## Immobilien
+
+#### Informationen
+
+- Jeder Spieler kann aktuell eine Immobilie besitzen oder Mieten.
+- Als Besitzer einer Immobilie kann man zahlreiche einstellungen vornehmen wie z.B. Hauskasse, Schloss, Mieterverwaltung und den Stromanbieter.
+- Immobielien bieten zukünftig auch den Spawnpunkt seiner Organisation falls man das möchte.
+- Nach freien Immobielien kann man in der Stadthalle Los Santos sehen, dort kann man eine Innenansicht sowie Außenansicht machen und sich ein GPS setzen lassen.
+- Folgende Immobilienpreise gibt es Apartment: 150.000$ | Haus 300.000$ | Villa: 1.000.000$ | MadDog Villa: 3.000.000$
 
 ## Unternehmen
 
