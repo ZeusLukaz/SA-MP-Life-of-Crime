@@ -66,6 +66,8 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 
 ## Berufe
 
+- Die meisten Berufe wurden so angepasst, das z.B. Ingame eine Busfahrer Linie entfernt, bearbeitet oder hinzugefügt werden kann.
+
 ### Busfahrer
 
 #### Informationen
