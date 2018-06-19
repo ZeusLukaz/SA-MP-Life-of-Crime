@@ -7,6 +7,8 @@
 Sämtliche Systeme wurden möglichst dynamisch per MySQL geschrieben,
 um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 
+[Anti-Cheat](#Anti-Cheat)
+
 ## Anti-Cheat
 
 - Auf dem Server gibt es ein gut ausgereiftes Anti-Cheat, natürlich kann es immer zu Fehlern kommen aber diese werden in der Testphase behoben.
