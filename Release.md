@@ -2,6 +2,18 @@
   <img src="https://github.com/ZeusLukaz/SA-MP-Life-of-Crime/blob/Release/Logo.png" alt="LoC Logo"/>
 </p>
 
+Hey,
+
+Wie in der Überschrift zu lesen ist suche ich Servertester.
+
+Wir verlangen von den Servertestern nichts weiter auser Geistige Reife, Spaß an SA:MP und etwas Kreativität.
+Wir Bieten die Übernahme zum Supporter, Admin, Head Admin beim Serverstart und Implementierung eigener Ideen.
+
+Wir haben bereits ein Selfmade Script, welches fast spielbereit ist.
+Die Arbeit wurde vor 3 Monaten pausiert, da ich der einzige Scripter bin und wegen meiner Arbeit kaum Zeit fand.
+
+Zu meiner Person mein Name ist Lukas.H ich bin 21 Jahre Jung, und komme aus dem Wunderbaren Freistaat Bayern.
+
 # Information
 
 Der Server wurde nie richtig auf Fehlern getestet, deshalb starten wir eine Testphase um mögliche Fehler zu finden, und zu sehen ob Interesse der Community besteht.
@@ -17,6 +29,7 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 
 ## Feature Tabelle
 
+- [Kontaktdaten](#kontaktdaten)
 - [Anti-Cheat](#anti-cheat)
 - [Admin System](#admin-system)
 - [Bankraub System](#bankraub-system)
@@ -630,3 +643,8 @@ Jedes Unternehmen muss von einen Verkauf 10% Steuern zahlen und falls ein Teilha
 - [ ] Das Kofferraum System überarbeiten wahrscheinlich mit Dialogen.
 - [ ] Eine Waffenscheinprüfung.
 - [ ] /Service eine Funktion Unter dem Radar Detektive sehen 5 Minuten nur noch deine Stadt.
+
+
+# Kontaktdaten
+
+Breadfish Konversation
