@@ -7,7 +7,7 @@
 Sämtliche Systeme wurden möglichst dynamisch per MySQL geschrieben,
 um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 
-[Anti-Cheat](#Anti-Cheat)
+[Anti-Cheat](##Anti-Cheat)
 
 ## Anti-Cheat
 
