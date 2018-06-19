@@ -2,7 +2,7 @@
   <img src="https://github.com/ZeusLukaz/SA-MP-Life-of-Crime/blob/Release/Logo.png" alt="LoC Logo"/>
 </p>
 
-[align=center](
+<p class="text-center">...</p>
 Hey,
 
 Wie in der Überschrift zu lesen ist suche ich Servertester.
@@ -14,7 +14,7 @@ Wir haben bereits ein Selfmade Script, welches fast spielbereit ist.
 Die Arbeit wurde vor 3 Monaten pausiert, da ich der einzige Scripter bin und wegen meiner Arbeit kaum Zeit fand.
 
 Zu meiner Person mein Name ist Lukas.H ich bin 21 Jahre Jung, und komme aus dem Wunderbaren Freistaat Bayern.
-)
+</p>
 
 # Information
 
