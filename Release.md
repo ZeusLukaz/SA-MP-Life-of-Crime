@@ -194,7 +194,7 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 
 - Das komplette Fraktions System läuft über MySQL, somit können Projektleiter Ingame jederzeit Fraktionen erstellen oder entfernen.
 - Jede Fraktion hat ein Fraktionshaus welches eine normale Immobilie ist, abgesehen von Staatsfraktionen.
-- Aktuell gibt es folgende Fraktions Typen Zivilist, Gang, Mafia, Hitman, Polizei, Sanitäter und Ordnungsamt dazu die extra Kategorie Staat.
+- Aktuell gibt es folgende Fraktions Typen Zivilist, Gang, Mafia, Hitman, Polizei, Sanitäter, News und Ordnungsamt dazu die extra Kategorie Staat.
 - Je Nachdem eine Fraktion zugewiesen ist hat diese zugriffe auf Funktionen und Befehle.
 - Skins können von Projektleitern jederzeit Ingame einer Fraktion zugewiesen oder entfernt werden.
 
@@ -240,6 +240,14 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 - Als Leader kann man einmal stündlich seine Fraktions Fahrzeuge respawnen.
 - Als Leader kann man Fraktionsfahrzeuge kaufen/verkaufen oder modifizieren.
 - Als Ordnungsamt Beamter sorgt man auf den Straßen von San Andreas für ordnung.
+
+#### News Reporter
+
+- Als News Reporter berichtet man das Geschehen rund um San Andreas oder macht Interviews.
+- Als News Reporter hat man genug Resourcen um Events zu veranstalten.
+- Als Member kann man fraktionsfahrzeuge per GPS finden.
+- Als Leader kann man einmal stündlich seine Fraktions Fahrzeuge respawnen.
+- Als Leader kann man Fraktionsfahrzeuge kaufen/verkaufen oder modifizieren.
 
 #### Staat
 
