@@ -14,6 +14,7 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 - [Bankraub System](#bankraub-system)
 - [Gangfight System](#gangfight-system)
 - [Gangwar System](#gangwar-system)
+- [Geschäft Erpresser System](#geschäft-erpresser-system)
 - [Berufe](#berufe)
   - [Busfahrer](#busfahrer)
   - [Pilot](#pilot)
@@ -92,6 +93,12 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 - Jeder Gang oder Mafia kann ein Gangwar Starten oder beenden.
 - Während eines laufenden Gangwars erhällt man nur einen Wanted beim Morden eines Gegners, sowie einen extra Einflusspunkt.
 - Gangwars können nur vom Leader gestartet werden.
+
+## Geschäft Erpresser System
+
+- Jeder Pizza Stack, Cluckin Bell, Burger Shot, Zip oder Binco kann erpresst werden.
+- Um ein Geschäft zu erpressen muss ein Fraktionsmitglied dieses angreifen, danach muss mindestens 1 Fraktionsmitglied dieser Fraktion 5 Minuten lang in einem Radius von 250 Meter am geschäft sein.
+- Sollte man ein Geschäft erpressen werden alle einkäufe von Spielern in die Kasse eingezahlt, diese können dann von einen Fraktionsmitglied der erpresser abgeholt werden, das Geld wird dann in die Fraktionskasse eingezahlt.
 
 ## Berufe
 
