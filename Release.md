@@ -13,6 +13,7 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 - [Admin System](#admin-system)
 - [Bankraub System](#bankraub-system)
 - [Gangfight System](#gangfight-system)
+- [Gangwar System](#gangwar-system)
 - [Berufe](#berufe)
   - [Busfahrer](#busfahrer)
   - [Pilot](#pilot)
@@ -80,11 +81,17 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 
 ## Gangfight System
 
-- Jede Gang oder Mafia kann an einem Gangfight teilnehmen, der Sieger ist der jenige der zuerst 120 Punkte erreicht oder bei ablauf der Zeit die meisten Punkte hat.
+- Jede Gang oder Mafia kann an einem Gangfight teilnehmen, der Sieger ist der jenige der zuerst 120 Punkte erreicht oder bei ablauf (60 Minuten) der Zeit die meisten Punkte hat.
 - In jeder Gangfightzone gibt es 3 Flaggen, jede Flagge bringt in der Minute einen Punkt, sollte der Angreifer oder Verteidiger alle 3 halten erhällt man pro Mord doppelte Punkte.
 - Bei einen Teamkill erhält der Gegner einen Punnkt.
 - Nach einem Gangfight hat die Zone einen Cooldown von 3 Stunden.
 - Jede Zone bringt unterschiedlich viele Einflusspunkte und Geld.
+
+## Gangwar System
+
+- Jeder Gang oder Mafia kann ein Gangwar Starten oder beenden.
+- Während eines laufenden Gangwars erhällt man nur einen Wanted beim Morden eines Gegners, sowie einen extra Einflusspunkt.
+- Gangwars können nur vom Leader gestartet werden.
 
 ## Berufe
 
