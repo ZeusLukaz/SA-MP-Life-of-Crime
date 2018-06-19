@@ -17,7 +17,6 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 
 ## Feature Tabelle
 
-- [Kontaktdaten](#kontaktdaten)
 - [Anti-Cheat](#anti-cheat)
 - [Admin System](#admin-system)
 - [Bankraub System](#bankraub-system)
@@ -631,8 +630,3 @@ Jedes Unternehmen muss von einen Verkauf 10% Steuern zahlen und falls ein Teilha
 - [ ] Das Kofferraum System überarbeiten wahrscheinlich mit Dialogen.
 - [ ] Eine Waffenscheinprüfung.
 - [ ] /Service eine Funktion Unter dem Radar Detektive sehen 5 Minuten nur noch deine Stadt.
-
-
-# Kontaktdaten
-
-Breadfish Konversation
