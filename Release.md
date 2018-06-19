@@ -9,13 +9,25 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 
 ## Table of Contents
 
-- [Anti-Cheat](#anti-cheat)
-- [Admin System](#admin-system) 
-- [Berufe](#berufe) 
-- [Fraktionen](#fraktionen) 
-- [immobilien](#immobilien) 
-- [Unternehmen](#unternehmen) 
-- [Geplante Features](#geplante-features) 
+- [Anti-Cheat](#anti-cheat
+- [Admin System](#admin-system)
+- [Berufe](#berufe)
+ - [Busfahrer](#busfahrer)
+ - [Pilot](#pilot)
+ - [Zugfahrer](#zugfahrer)
+ - [Trucker](#trucker)
+ - [Hochseefischer](#hochseefischer)
+ - [Holzfäller](#holzfäller)
+ - [Müllfahrer](#müllfahrer)
+ - [Taxifahrer](#taxifahrer)
+ - [Detektiv](#detektiv)
+ - [Anwalt](#anwalt)
+ - [Farmer](#farmer)
+- [Nebenjobs](#nebenjobs)
+- [Fraktionen](#fraktionen)
+- [immobilien](#immobilien)
+- [Unternehmen](#unternehmen)
+- [Geplante Features](#geplante-features)
 
 ## Anti-Cheat
 
