@@ -9,7 +9,7 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 
 ## Table of Contents
 
-- [Anti-Cheat](./Release#Anti-Cheat)
+- [Anti-Cheat](Release#Anti-Cheat)
 - [Admin System](#Admin System) 
 - [Berufe](#Berufe) 
 - [Fraktionen](#Fraktionen) 
