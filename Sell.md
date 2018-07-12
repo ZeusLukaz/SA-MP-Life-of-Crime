@@ -387,6 +387,8 @@ Man kann Maximal 1 Unternehmen besitzen.
 
 Jedes Unternehmen muss von einen Verkauf 10% Steuern zahlen und falls ein Teilhaber vorhanden ist nochmal 10% an diesen.
 
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
+
 ### Tankstellen
 
 #### Informationen
@@ -434,6 +436,7 @@ Jedes Unternehmen muss von einen Verkauf 10% Steuern zahlen und falls ein Teilha
 - Come-A-Lot
 - Spinybed
 
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
 
 ### Paynspray
 
@@ -456,6 +459,8 @@ Jedes Unternehmen muss von einen Verkauf 10% Steuern zahlen und falls ein Teilha
 #### Standort
 
 - Las Venturas White Wood Estates
+
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
 
 ### Ammunation
 
@@ -497,6 +502,8 @@ Jedes Unternehmen muss von einen Verkauf 10% Steuern zahlen und falls ein Teilha
 - San Fierro Ocean Flats
 - Las Venturas Come-A-Lot
 
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
+
 ### Paintball
 
 #### Informationen
@@ -521,6 +528,8 @@ Jedes Unternehmen muss von einen Verkauf 10% Steuern zahlen und falls ein Teilha
 - Los Santos Vinewood
 - San Fierro Financial
 - Las Venturas Redsands West
+
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
 
 ### Stromwerk
 
@@ -547,6 +556,8 @@ Jedes Unternehmen muss von einen Verkauf 10% Steuern zahlen und falls ein Teilha
 
 - Los Santos Ocean Docks
 - San Fierro Missionary Hill
+
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
 
 ### Lottery
 
@@ -576,6 +587,8 @@ Jedes Unternehmen muss von einen Verkauf 10% Steuern zahlen und falls ein Teilha
 
 #### Standort
 
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
+
 ### 24/7
 
 #### Informationen
@@ -604,6 +617,8 @@ Jedes Unternehmen muss von einen Verkauf 10% Steuern zahlen und falls ein Teilha
 #### Standorte
 
 - Los Santos Market
+
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
 
 ### Handy Unternehmen
 
@@ -636,6 +651,8 @@ Jedes Unternehmen muss von einen Verkauf 10% Steuern zahlen und falls ein Teilha
 - San Fierro Downtown
 - Las Venturas The Emerald Isle
 
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
+
 ### Werbeagentur
 
 #### Informationen
@@ -658,6 +675,8 @@ Jedes Unternehmen muss von einen Verkauf 10% Steuern zahlen und falls ein Teilha
 #### Standort
 
 - Los Santos
+
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
 
 ### Bars
 
@@ -696,38 +715,56 @@ Jedes Unternehmen muss von einen Verkauf 10% Steuern zahlen und falls ein Teilha
 
 - In der Startseite kann der User seine Statistike und sein Dynamische Signatur einsehen.
 
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
+
 ### CP Feedback
 
 - In der Feedback seite kann der User Fehler/Vorschläge oder Sonstiges zum Gameserver und Control Panel erstellen oder einsehen.
 - Administratoren können diese Feedbacks dann bearbeiten.
 
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
+
 ### CP Adminteam
 
 - In dieser seite werden alle Administratoren von Supporter bis zur Projektleitung, aus der Datenbank aufgelistet.
+
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
 
 ### CP Regelwerk
 
 - Dort ist das Serverregelwerk zu finden welches auch ingame per /regelwerk abrufbar ist.
 
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
+
 ### CP Serverinfo
 
 - Aktuell gibt es nur die Option Bestenliste welche zahlreiche Bestenlisten zeigt z.B. Kontostand, Morde und Tode
+
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
 
 ### CP Maps
 
 - Hier gibt es folgende Maps Graffitis, Immobilien, Unternehmen und Fahrzeuglieferungen.
 
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
+
 #### CP Graffits
 
 - Dort werden alle Graffitis für Gangs und deren Besitzer mit Sperrzeit aufgelistet.
+
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
 
 #### CP Immobilien
 
 - Dort werden alle Immobilien aufgelistet mit Innenansicht der Immobilie und deren Besitzer.
 
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
+
 #### CP Unternehmen
 
 - Dort werden alle Unternehmen und deren Besitzer aufgelistet.
+
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
 
 #### CP Fahrzeuglieferungen
 
