@@ -255,8 +255,6 @@ Folgende Skins sind aktuell in der Datenbank eingestellt.
   <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_289.png" alt="Skin"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
-
 ### San Andreas Polizei Dienst Skins:
 
 <p float="left">
@@ -275,8 +273,6 @@ Folgende Skins sind aktuell in der Datenbank eingestellt.
   <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_311.png" alt="Skin"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
-
 ### San Andreas Sanitäter Dienst Skins:
 
 <p float="left">
@@ -286,8 +282,6 @@ Folgende Skins sind aktuell in der Datenbank eingestellt.
   <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_276.png" alt="Skin"/>
   <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_308.png" alt="Skin"/>
 </p>
-
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
 
 ### San News Skins:
 
@@ -302,8 +296,6 @@ Folgende Skins sind aktuell in der Datenbank eingestellt.
   <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_250.png" alt="Skin"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
-
 ### Ordnungsamt Skins:
 
 <p float="left">
@@ -314,8 +306,6 @@ Folgende Skins sind aktuell in der Datenbank eingestellt.
   <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_233.png" alt="Skin"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
-
 ### Hitman Agency Skins:
 
 <p float="left">
@@ -323,9 +313,6 @@ Folgende Skins sind aktuell in der Datenbank eingestellt.
   <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_163.png" alt="Skin"/>
   <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_164.png" alt="Skin"/>
 </p>
-
-
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
 
 ### Grove Street Skins:
 
@@ -338,9 +325,6 @@ Folgende Skins sind aktuell in der Datenbank eingestellt.
   <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_271.png" alt="Skin"/>
 </p>
 
-
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
-
 ### Rolling High Ballas Skins:
 
 <p float="left">
@@ -350,9 +334,6 @@ Folgende Skins sind aktuell in der Datenbank eingestellt.
   <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_104.png" alt="Skin"/>
   <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_293.png" alt="Skin"/>
 </p>
-
-
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
 
 ### La Cosa Nostra Skins:
 
@@ -366,8 +347,6 @@ Folgende Skins sind aktuell in der Datenbank eingestellt.
   <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_223.png" alt="Skin"/>
   <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_249.png" alt="Skin"/>
 </p>
-
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
 
 ### Russen Mafia Skins:
 
@@ -384,8 +363,6 @@ Folgende Skins sind aktuell in der Datenbank eingestellt.
   <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_258.png" alt="Skin"/>
   <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_272.png" alt="Skin"/>
 </p>
-
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
 
 ### Yakuza Mafia Skins:
 
