@@ -10,6 +10,8 @@ Ein Forum und Control Panel wird nach der Testphase und bei Interesse der Commun
 
 Natürlich ist mir bewusst das es in Deutschland keinen San Andreas Multiplayer Server geben wird mit permanent 150+ Spielern.
 
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
+
 # Features
 
 Sämtliche Systeme wurden möglichst dynamisch per MySQL geschrieben,
@@ -81,10 +83,14 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
   - [Filterscripts](#filterscripts)
   - [Datenbank](#datenbank)
   
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
+  
 ## Anti-Cheat
 
 - Auf dem Server gibt es ein gut ausgereiftes Anti-Cheat, natürlich kann es immer zu Fehlern kommen aber diese werden in der Testphase behoben.
 - Als Projektleiter kann man jederzeit Ingame das Anti-Cheat konfigurieren, sodass es bei gewissen ereignissen nur eine Adminmeldung sendet, Kickt oder Bannt.
+
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
 
 ## Admin System
 
@@ -92,6 +98,8 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 - Zum Schutz vor Ausnutzen der Admin Befehle werden diese detailliert geloggt, und gleichrangig oder höhere Administratoren sehen Ingame eine Meldung.
 - Zum Schutz können niederrangige Administratoren keine Befehle wie /prison /kick an höherrangigen Administratoren nutzen.
 - Zum Schutz kann ein Administrator falls er im Prison ist kein /goto usw. nutzen.
+
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
 
 ## Bankraub System
 
@@ -105,6 +113,8 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 - Sollte man es schafen eine Bank auszurauben müssen die Goldbaren zu einen Schwarzmarkthändler in LS/SF/LV gebracht werden, dieser verkauft die Goldbaren bis zum nächsten PayDay.
 - Sobald ein Banküberfall gestartet wurde hat man maximal 10 Minuten Zeit.
 
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
+
 ## Gangfight System
 
 - Jede Gang oder Mafia kann an einem Gangfight teilnehmen, der Sieger ist der jenige der zuerst 120 Punkte erreicht oder bei ablauf (60 Minuten) der Zeit die meisten Punkte hat.
@@ -113,11 +123,15 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 - Nach einem Gangfight hat die Zone einen Cooldown von 3 Stunden.
 - Jede Zone bringt unterschiedlich viele Einflusspunkte und Geld.
 
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
+
 ## Gangwar System
 
 - Jeder Gang oder Mafia kann ein Gangwar Starten oder beenden.
 - Während eines laufenden Gangwars erhällt man nur einen Wanted beim Morden eines Gegners, sowie einen extra Einflusspunkt.
 - Gangwars können nur vom Leader gestartet werden.
+
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
 
 ## Geschäft Erpresser System
 
@@ -126,12 +140,16 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 - Sollte man ein Geschäft erpressen werden alle einkäufe von Spielern in die Kasse eingezahlt, diese können dann von einen Fraktionsmitglied der erpresser abgeholt werden, das Geld wird dann in die Fraktionskasse eingezahlt.
 - Sollte ein geschäft von der Polizei geschützt werden gehen alle Einnahmen in die Staatskasse.
 
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
+
 ## Fahrzeug System
 
 - Jeder Spieler kann 4 Fahrzeuge auf dem Server besitzen.
 - Fahrzeuge können in Garagen geparkt werden, und somit mehr als 4 besitzen.
 - Zweitschlüssel können an andere Spieler gegeben werden.
 - In einem Wohnwagen kann man Spawnen und Meth Kochen.
+
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
 
 ## Spawn System
 
@@ -143,6 +161,8 @@ Es gibt 6 Spawn möglichkeiten auf Life of Crime.
 - Immobilie (vorausgesetzt man besitzt oder mietet eine Immobilie)
 - Fraktion (vorausgesetzt man ist in einer Fraktion)
 - Wohnwagen (vorausgesetzt man besitzt einen Wohnwagen, welcher 500 Meter von einer Fraktions Basis entfernt ist)
+
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
 
 ## Berufe
 
