@@ -625,8 +625,6 @@ Jedes Unternehmen muss von einen Verkauf 10% Steuern zahlen und falls ein Teilha
 
 ## Control Panel
 
-### Control Panel Beschreibung
-
 ### Startseite
 
 - In der Startseite kann der User seine Statistike und sein Dynamische Signatur einsehen.
