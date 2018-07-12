@@ -9,7 +9,6 @@ Der Server wurde nie richtig auf Fehlern getestet, deshalb starten wir eine Test
 Ein Forum und Control Panel wird nach der Testphase und bei Interesse der Community erstellt.
 
 Natürlich ist mir bewusst das es in Deutschland keinen San Andreas Multiplayer Server geben wird mit permanent 150+ Spielern.
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
 
 # Features
 
@@ -87,12 +86,16 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 - Auf dem Server gibt es ein gut ausgereiftes Anti-Cheat, natürlich kann es immer zu Fehlern kommen aber diese werden in der Testphase behoben.
 - Als Projektleiter kann man jederzeit Ingame das Anti-Cheat konfigurieren, sodass es bei gewissen ereignissen nur eine Adminmeldung sendet, Kickt oder Bannt.
 
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
+
 ## Admin System
 
 - Es gibt zahlreiche Admin Befehle, von welchen ein Projektleiter die Berechtigung jederzeit Ingame ändern kann.
 - Zum Schutz vor Ausnutzen der Admin Befehle werden diese detailliert geloggt, und gleichrangig oder höhere Administratoren sehen Ingame eine Meldung.
 - Zum Schutz können niederrangige Administratoren keine Befehle wie /prison /kick an höherrangigen Administratoren nutzen.
 - Zum Schutz kann ein Administrator falls er im Prison ist kein /goto usw. nutzen.
+
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
 
 ## Bankraub System
 
@@ -105,6 +108,8 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 - Sobald man in dem Safe ist kann man Goldbaren stehlen welche auf 2 Tische aufgeteilt sind, der nachteil man kann nur 12 Goldbaren tragen.
 - Sollte man es schafen eine Bank auszurauben müssen die Goldbaren zu einen Schwarzmarkthändler in LS/SF/LV gebracht werden, dieser verkauft die Goldbaren bis zum nächsten PayDay.
 - Sobald ein Banküberfall gestartet wurde hat man maximal 10 Minuten Zeit.
+
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
 
 ## Gangfight System
 
