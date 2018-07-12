@@ -23,6 +23,8 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 - [Gangfight System](#gangfight-system)
 - [Gangwar System](#gangwar-system)
 - [Geschäft Erpresser System](#geschäft-erpresser-system)
+- [Fahrzeug System](#fahrzeug system)
+- [Spawn System](#spawn system)
 - [Berufe](#berufe)
   - [Busfahrer](#busfahrer)
   - [Pilot](#pilot)
@@ -123,6 +125,24 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 - Um ein Geschäft zu erpressen muss ein Fraktionsmitglied dieses angreifen, danach muss mindestens 1 Fraktionsmitglied dieser Fraktion 5 Minuten lang in einem Radius von 250 Meter am geschäft sein.
 - Sollte man ein Geschäft erpressen werden alle einkäufe von Spielern in die Kasse eingezahlt, diese können dann von einen Fraktionsmitglied der erpresser abgeholt werden, das Geld wird dann in die Fraktionskasse eingezahlt.
 - Sollte ein geschäft von der Polizei geschützt werden gehen alle Einnahmen in die Staatskasse.
+
+## Fahrzeug System
+
+- Jeder Spieler kann 4 Fahrzeuge auf dem Server besitzen.
+- Fahrzeuge können in Garagen geparkt werden, und somit mehr als 4 besitzen.
+- Zweitschlüssel können an andere Spieler gegeben werden.
+- In einem Wohnwagen kann man Spawnen und Meth Kochen.
+
+## Spawn System
+
+Es gibt 6 Spawn möglichkeiten auf Life of Crime.
+
+- Flughafen Los Santos
+- Flughafen San Fierro
+- Flughafen Las Venturas
+- Immobilie (vorausgesetzt man besitzt oder mietet eine Immobilie)
+- Fraktion (vorausgesetzt man ist in einer Fraktion)
+- Wohnwagen (vorausgesetzt man besitzt einen Wohnwagen, welcher 500 Meter von einer Fraktions Basis entfernt ist)
 
 ## Berufe
 
