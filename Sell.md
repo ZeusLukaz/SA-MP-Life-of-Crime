@@ -29,6 +29,7 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 - [Geschäft Erpresser System](#geschäft-erpresser-system)
 - [Fahrzeug System](#fahrzeug-system)
 - [Spawn System](#spawn-system)
+- [Skin System](#skin-system)
 - [Berufe](#berufe)
   - [Busfahrer](#busfahrer)
   - [Pilot](#pilot)
@@ -163,6 +164,20 @@ Es gibt 6 Spawn möglichkeiten auf Life of Crime.
 - Immobilie (vorausgesetzt man besitzt oder mietet eine Immobilie)
 - Fraktion (vorausgesetzt man ist in einer Fraktion)
 - Wohnwagen (vorausgesetzt man besitzt einen Wohnwagen, welcher 500 Meter von einer Fraktions Basis entfernt ist)
+
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
+
+## Skin System
+
+- Administratoren können jederzeit Ingame per /setskin einer Fraktion einen Skin geben/entfernen oder sperren.
+- Administratoren können per /giveskin einen Skin Temporär bis zum nächsten Spawn geben.
+
+Folgende Skins sind aktuell in der Datenbank eingestellt.
+
+Zivilisten und Undercover Skins:
+
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Skins/Skin_1.png" alt="Skin"/>
+
 
 <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
 
