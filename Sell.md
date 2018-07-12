@@ -174,85 +174,230 @@ Es gibt 6 Spawn möglichkeiten auf Life of Crime.
 
 Folgende Skins sind aktuell in der Datenbank eingestellt.
 
-Zivilisten und Undercover Skins:
+### Zivilisten und Undercover Skins:
+
+ <p float="left">
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_2.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_3.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_6.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_7.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_9.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_10.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_11.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_14.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_15.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_18.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_19.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_20.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_21.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_22.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_23.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_24.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_25.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_26.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_28.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_29.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_32.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_35.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_36.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_37.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_39.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_41.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_45.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_54.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_55.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_58.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_66.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_67.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_69.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_72.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_73.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_76.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_77.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_78.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_79.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_88.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_89.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_90.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_93.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_94.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_95.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_97.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_100.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_101.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_134.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_135.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_137.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_139.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_142.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_148.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_154.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_156.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_180.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_182.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_183.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_190.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_192.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_199.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_211.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_216.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_230.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_234.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_239.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_241.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_242.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_243.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_248.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_251.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_254.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_259.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_262.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_289.png" alt="Skin"/>
+</p>
+
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
+
+### San Andreas Polizei Dienst Skins:
 
 <p float="left">
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_2.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_3.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_6.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_7.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_9.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_10.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_11.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_14.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_15.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_18.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_19.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_20.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_21.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_22.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_23.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_24.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_25.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_26.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_28.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_29.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_32.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_35.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_36.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_37.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_39.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_41.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_45.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_54.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_55.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_58.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_66.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_67.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_69.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_72.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_73.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_76.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_77.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_78.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_79.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_88.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_89.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_90.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_93.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_94.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_95.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_97.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_100.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_101.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_134.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_135.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_137.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_139.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_142.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_148.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_154.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_156.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_180.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_182.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_183.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_190.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_192.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_199.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_211.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_216.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_230.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_234.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_239.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_241.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_242.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_243.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_248.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_251.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_254.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_259.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_262.png" alt="Skin"/>
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_289.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_280.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_281.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_282.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_283.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_288.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_300.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_301.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_302.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_306.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_307.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_309.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_310.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_311.png" alt="Skin"/>
+</p>
+
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
+
+### San Andreas Sanitäter Dienst Skins:
+
+<p float="left">
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_70.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_274.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_275.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_276.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_308.png" alt="Skin"/>
+</p>
+
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
+
+### San News Skins:
+
+<p float="left">
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_56.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_60.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_170.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_188.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_226.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_227.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_240.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_250.png" alt="Skin"/>
+</p>
+
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
+
+### Ordnungsamt Skins:
+
+<p float="left">
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_8.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_42.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_50.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_71.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_233.png" alt="Skin"/>
+</p>
+
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
+
+### Hitman Agency Skins:
+
+<p float="left">
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_141.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_163.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_164.png" alt="Skin"/>
+</p>
+
+
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
+
+### Grove Street Skins:
+
+<p float="left">
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_65.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_105.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_106.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_107.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_269.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_271.png" alt="Skin"/>
+</p>
+
+
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
+
+### Rolling High Ballas Skins:
+
+<p float="left">
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_13.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_102.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_103.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_104.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_293.png" alt="Skin"/>
+</p>
+
+
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
+
+### La Cosa Nostra Skins:
+
+<p float="left">
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_46.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_47.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_48.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_98.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_185.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_214.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_223.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_249.png" alt="Skin"/>
+</p>
+
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
+
+### Russen Mafia Skins:
+
+<p float="left">
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_40.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_43.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_111.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_112.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_113.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_124.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_125.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_126.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_127.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_258.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_272.png" alt="Skin"/>
+</p>
+
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
+
+### Yakuza Mafia Skins:
+
+<p float="left">
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_121.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_122.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_123.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_186.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_203.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_204.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_224.png" alt="Skin"/>
+  <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_228.png" alt="Skin"/>
 </p>
 
 <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
