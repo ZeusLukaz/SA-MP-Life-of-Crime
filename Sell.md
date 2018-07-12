@@ -74,6 +74,10 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
   - [CP Unternehmen](#cp-unternehmen)
   - [CP Graffits](#cp-fahrzeuglieferungen)
 - [Informationen zum Script](#informationen-zum-script)
+  - [Includes](#includes)
+  - [Plugins](#plugins)
+  - [Filterscripts](#filterscripts)
+  - [Datenbank](#datenbank)
   
 ## Anti-Cheat
 
