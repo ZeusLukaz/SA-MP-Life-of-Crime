@@ -179,7 +179,6 @@ Zivilisten und Undercover Skins:
 <p float="left">
 <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_2.png" alt="Skin"/>
 <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_3.png" alt="Skin"/>
-</p>
 <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_6.png" alt="Skin"/>
 <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_7.png" alt="Skin"/>
 <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_9.png" alt="Skin"/>
@@ -254,6 +253,7 @@ Zivilisten und Undercover Skins:
 <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_259.png" alt="Skin"/>
 <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_262.png" alt="Skin"/>
 <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_289.png" alt="Skin"/>
+</p>
 
 <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
 
