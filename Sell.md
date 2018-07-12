@@ -73,6 +73,7 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
   - [CP Immobilien](#cp-immobilien)
   - [CP Unternehmen](#cp-unternehmen)
   - [CP Graffits](#cp-fahrzeuglieferungen)
+- [Informationen zum Script](#informationen-zum-script)
   
 ## Anti-Cheat
 
@@ -675,3 +676,79 @@ Jedes Unternehmen muss von einen Verkauf 10% Steuern zahlen und falls ein Teilha
 #### CP Fahrzeuglieferungen
 
 - Dort werden alle Fahrzeuglieferungspunkte in San Andreas aufgelistet welche für /service --> Fahrzeuglieferung sind.
+
+
+## Informationen zum Script
+
+Das Script wurde Mitte 2016 begonnen, seitdem wurden im laufe der Jahre alle Systeme nacheinander geschrieben.
+Von den meisten Fortschritten bestehen noch Backups, aktuell hat das Script knapp 36.000 Zeilen.
+
+### Includes
+
+Es sind 13 Includes im Script verankert.
+Das Nex-ac wurde im Gamemode angepasst, damit es Ingame konfiguriert werden kann.
+
+- fixes
+- streamer
+- nex-ac
+- a_mysql
+- sscanf2
+- callbacks
+- ocmd
+- md5
+- zones
+- mapandreas
+- log-plugin
+- animpreload
+- TimestampToDate
+
+### Plugins
+
+Es werden 5 Plugins benötigt.
+
+- mysql
+- sscanf
+- streamer
+- MapAndreas
+- log-plugin
+
+### Filterscripts
+
+Es wird nur ein Filterscript geladen, welches alle Mappings von Life of Crime beinhalted.
+
+### Datenbank
+
+Das Script wurde mit dem MySQL Plugin Version R39-6 geschrieben.
+Die Datenbank hat 31 Tabellen, sämtliche Tabellen welche Benutzerdaten beinhalten werden zurückgesetzt.
+
+- Accounts
+- AdminCMD
+- Anticheat
+- Aufzug
+- Aufzugetagen
+- Bushaltestellen
+- Buslinien
+- CP_Feedback_Antworten
+- CP_Feedback_Gelesen
+- CP_Feedbacks
+- Fahrzeuge
+- Fahrzeuglieferung
+- Fraktionen
+- Gangfights
+- Gangwars
+- Graffiti
+- Gutscheine
+- Haus
+- Hilfe
+- Kopfgelder
+- Pilotlandezonen
+- Pilotlinien
+- Quest
+- QuestFortschritt
+- QuestSchritte
+- Server
+- Skins
+- Unternehmen
+- Verkaufsstellen
+- Zugfahrerlinien
+- Zugfahrerstationen
