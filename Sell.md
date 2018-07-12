@@ -63,7 +63,17 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
   - [Werbeagentur](#werbeagentur)
   - [Bars](#bars)
 - [Control Panel](#control-panel)
-
+  - [CP Startseite](#cp startseite)
+  - [CP Feedback](#cp feedback)
+  - [CP Adminteam](#cp adminteam)
+  - [CP Regelwerk](#cp regelwerk)
+  - [CP Serverinfo](#cp serverinfo)
+  - [CP Maps](#cp maps)
+  - [CP Graffits](#cp graffits)
+  - [CP Immobilien](#cp immobilien)
+  - [CP Unternehmen](#cp unternehmen)
+  - [CP Graffits](#cp fahrzeuglieferungen)
+  
 ## Anti-Cheat
 
 - Auf dem Server gibt es ein gut ausgereiftes Anti-Cheat, natürlich kann es immer zu Fehlern kommen aber diese werden in der Testphase behoben.
@@ -625,43 +635,43 @@ Jedes Unternehmen muss von einen Verkauf 10% Steuern zahlen und falls ein Teilha
 
 ## Control Panel
 
-### Startseite
+### CP Startseite
 
 - In der Startseite kann der User seine Statistike und sein Dynamische Signatur einsehen.
 
-### Feedback
+### CP Feedback
 
 - In der Feedback seite kann der User Fehler/Vorschläge oder Sonstiges zum Gameserver und Control Panel erstellen oder einsehen.
 - Administratoren können diese Feedbacks dann bearbeiten.
 
-### Adminteam
+### CP Adminteam
 
 - In dieser seite werden alle Administratoren von Supporter bis zur Projektleitung, aus der Datenbank aufgelistet.
 
-### Regelwerk
+### CP Regelwerk
 
 - Dort ist das Serverregelwerk zu finden welches auch ingame per /regelwerk abrufbar ist.
 
-### Serverinfo
+### CP Serverinfo
 
 - Aktuell gibt es nur die Option Bestenliste welche zahlreiche Bestenlisten zeigt z.B. Kontostand, Morde und Tode
 
-### Maps
+### CP Maps
 
 - Hier gibt es folgende Maps Graffitis, Immobilien, Unternehmen und Fahrzeuglieferungen.
 
-#### Graffits
+#### CP Graffits
 
 - Dort werden alle Graffitis für Gangs und deren Besitzer mit Sperrzeit aufgelistet.
 
-#### Immobilien
+#### CP Immobilien
 
 - Dort werden alle Immobilien aufgelistet mit Innenansicht der Immobilie und deren Besitzer.
 
-#### Unternehmen
+#### CP Unternehmen
 
 - Dort werden alle Unternehmen und deren Besitzer aufgelistet.
 
-#### Fahrzeuglieferungen
+#### CP Fahrzeuglieferungen
 
 - Dort werden alle Fahrzeuglieferungspunkte in San Andreas aufgelistet welche für /service --> Fahrzeuglieferung sind.
