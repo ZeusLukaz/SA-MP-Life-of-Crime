@@ -62,7 +62,7 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
   - [Handy Unternehmen](#handy-unternehmen)
   - [Werbeagentur](#werbeagentur)
   - [Bars](#bars)
-- [Geplante Features](#geplante-features)
+- [Control Panel](#control-panel)
 
 ## Anti-Cheat
 
@@ -622,3 +622,5 @@ Jedes Unternehmen muss von einen Verkauf 10% Steuern zahlen und falls ein Teilha
 - Los Santos Alhambra
 - San Fierro Plasure Domes
 - Las Venturas Big Spread Range
+
+### Control Panel
