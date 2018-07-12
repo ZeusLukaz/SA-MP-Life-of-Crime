@@ -629,41 +629,41 @@ Jedes Unternehmen muss von einen Verkauf 10% Steuern zahlen und falls ein Teilha
 
 ### Startseite
 
-In der Startseite kann der User seine Statistike und sein Dynamische Signatur einsehen.
+- In der Startseite kann der User seine Statistike und sein Dynamische Signatur einsehen.
 
 ### Feedback
 
-In der Feedback seite kann der User Fehler/Vorschläge oder Sonstiges zum Gameserver und Control Panel erstellen oder einsehen.
-Administratoren können diese Feedbacks dann bearbeiten.
+- In der Feedback seite kann der User Fehler/Vorschläge oder Sonstiges zum Gameserver und Control Panel erstellen oder einsehen.
+- Administratoren können diese Feedbacks dann bearbeiten.
 
 ### Adminteam
 
-In dieser seite werden alle Administratoren von Supporter bis zur Projektleitung, aus der Datenbank aufgelistet.
+- In dieser seite werden alle Administratoren von Supporter bis zur Projektleitung, aus der Datenbank aufgelistet.
 
 ### Regelwerk
 
-Dort ist das Serverregelwerk zu finden welches auch ingame per /regelwerk abrufbar ist.
+- Dort ist das Serverregelwerk zu finden welches auch ingame per /regelwerk abrufbar ist.
 
 ### Serverinfo
 
-Aktuell gibt es nur die Option Bestenliste welche zahlreiche Bestenlisten zeigt z.B. Kontostand, Morde und Tode
+- Aktuell gibt es nur die Option Bestenliste welche zahlreiche Bestenlisten zeigt z.B. Kontostand, Morde und Tode
 
 ### Maps
 
-Hier gibt es folgende Maps Graffitis, Immobilien, Unternehmen und Fahrzeuglieferungen.
+- Hier gibt es folgende Maps Graffitis, Immobilien, Unternehmen und Fahrzeuglieferungen.
 
 #### Graffits
 
-Dort werden alle Graffitis für Gangs und deren Besitzer mit Sperrzeit aufgelistet.
+- Dort werden alle Graffitis für Gangs und deren Besitzer mit Sperrzeit aufgelistet.
 
 #### Immobilien
 
-Dort werden alle Immobilien aufgelistet mit Innenansicht der Immobilie und deren Besitzer.
+- Dort werden alle Immobilien aufgelistet mit Innenansicht der Immobilie und deren Besitzer.
 
 #### Unternehmen
 
-Dort werden alle Unternehmen und deren Besitzer aufgelistet.
+- Dort werden alle Unternehmen und deren Besitzer aufgelistet.
 
 #### Fahrzeuglieferungen
 
-Dort werden alle Fahrzeuglieferungspunkte in San Andreas aufgelistet welche für /service --> Fahrzeuglieferung sind.
+- Dort werden alle Fahrzeuglieferungspunkte in San Andreas aufgelistet welche für /service --> Fahrzeuglieferung sind.
