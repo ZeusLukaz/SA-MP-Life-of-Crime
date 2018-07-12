@@ -86,16 +86,12 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 - Auf dem Server gibt es ein gut ausgereiftes Anti-Cheat, natürlich kann es immer zu Fehlern kommen aber diese werden in der Testphase behoben.
 - Als Projektleiter kann man jederzeit Ingame das Anti-Cheat konfigurieren, sodass es bei gewissen ereignissen nur eine Adminmeldung sendet, Kickt oder Bannt.
 
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
-
 ## Admin System
 
 - Es gibt zahlreiche Admin Befehle, von welchen ein Projektleiter die Berechtigung jederzeit Ingame ändern kann.
 - Zum Schutz vor Ausnutzen der Admin Befehle werden diese detailliert geloggt, und gleichrangig oder höhere Administratoren sehen Ingame eine Meldung.
 - Zum Schutz können niederrangige Administratoren keine Befehle wie /prison /kick an höherrangigen Administratoren nutzen.
 - Zum Schutz kann ein Administrator falls er im Prison ist kein /goto usw. nutzen.
-
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
 
 ## Bankraub System
 
@@ -109,8 +105,6 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 - Sollte man es schafen eine Bank auszurauben müssen die Goldbaren zu einen Schwarzmarkthändler in LS/SF/LV gebracht werden, dieser verkauft die Goldbaren bis zum nächsten PayDay.
 - Sobald ein Banküberfall gestartet wurde hat man maximal 10 Minuten Zeit.
 
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
-
 ## Gangfight System
 
 - Jede Gang oder Mafia kann an einem Gangfight teilnehmen, der Sieger ist der jenige der zuerst 120 Punkte erreicht oder bei ablauf (60 Minuten) der Zeit die meisten Punkte hat.
@@ -119,15 +113,11 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 - Nach einem Gangfight hat die Zone einen Cooldown von 3 Stunden.
 - Jede Zone bringt unterschiedlich viele Einflusspunkte und Geld.
 
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
-
 ## Gangwar System
 
 - Jeder Gang oder Mafia kann ein Gangwar Starten oder beenden.
 - Während eines laufenden Gangwars erhällt man nur einen Wanted beim Morden eines Gegners, sowie einen extra Einflusspunkt.
 - Gangwars können nur vom Leader gestartet werden.
-
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
 
 ## Geschäft Erpresser System
 
@@ -136,16 +126,12 @@ um änderungen Ingame so wie Komplette Umstrukturierungen zu vereinfachen.
 - Sollte man ein Geschäft erpressen werden alle einkäufe von Spielern in die Kasse eingezahlt, diese können dann von einen Fraktionsmitglied der erpresser abgeholt werden, das Geld wird dann in die Fraktionskasse eingezahlt.
 - Sollte ein geschäft von der Polizei geschützt werden gehen alle Einnahmen in die Staatskasse.
 
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
-
 ## Fahrzeug System
 
 - Jeder Spieler kann 4 Fahrzeuge auf dem Server besitzen.
 - Fahrzeuge können in Garagen geparkt werden, und somit mehr als 4 besitzen.
 - Zweitschlüssel können an andere Spieler gegeben werden.
 - In einem Wohnwagen kann man Spawnen und Meth Kochen.
-
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
 
 ## Spawn System
 
@@ -158,11 +144,11 @@ Es gibt 6 Spawn möglichkeiten auf Life of Crime.
 - Fraktion (vorausgesetzt man ist in einer Fraktion)
 - Wohnwagen (vorausgesetzt man besitzt einen Wohnwagen, welcher 500 Meter von einer Fraktions Basis entfernt ist)
 
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
-
 ## Berufe
 
 - Die meisten Berufe wurden so angepasst, das z.B. Ingame eine Busfahrer Linie entfernt, bearbeitet oder hinzugefügt werden kann.
+
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
 
 ### Busfahrer
 
@@ -172,6 +158,8 @@ Es gibt 6 Spawn möglichkeiten auf Life of Crime.
 - Es gibt aktuell 10 Linien.
 - Bei jeder Bustour erhält man verschieden viele EXP-Punkte, je höher die Linie desto eine höhere Change auf EXP.
 
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
+
 ### Pilot
 
 #### Informationen  
@@ -179,12 +167,16 @@ Es gibt 6 Spawn möglichkeiten auf Life of Crime.
 - Man kann in einem Flugzeug (Beagle, Nevada, AT400 oder Cargobob) seinen Dienst mit '/flug' starten.
 - Je nach Flugfahrzeug Typ gibt es unterschiedliche Aufträge.
 
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
+
 ### Zugfahrer
 
 #### Informationen
 
 - Als zugfahrer fährt man sämmtliche Personen und Ladungen durch den Gleisverkeht von San Andreas.
 - Die Züge sind meistens an der Lindenstation in Las Venturas zu finden.
+
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
 
 ### Trucker
 
@@ -196,6 +188,8 @@ Es gibt 6 Spawn möglichkeiten auf Life of Crime.
 - Es stehen mehrere Trucks zur verfügung welche per Skill Level freigeschaltet werden müssen.
 - Je nach Truck kann man Benzin, Produkte usw. laden.
 
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
+
 ### Hochseefischer
 
 #### Informationen
@@ -204,6 +198,8 @@ Es gibt 6 Spawn möglichkeiten auf Life of Crime.
 - Die Fischerboote haben unterschiedlichen Laderaum 1500 Fische und 2500 Fische.
 - Als Hochseefischer kann man bis zu 5 Reusen auswerfen, diese müssen mindestens 750 Meter voneinander entfernt sein.
 - Reusen können frühestens nach 5 Minuten eingezogen werden.
+
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
 
 ### Holzfäller
 
@@ -214,6 +210,8 @@ Es gibt 6 Spawn möglichkeiten auf Life of Crime.
 - Je nach Skill Level kann man in Wälder mit besseren Bäumen.
 - Je besser der Baum und die Qualität desto mehr Geld erhällt man.
 
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
+
 ### Müllfahrer
 
 #### Informationen
@@ -222,6 +220,8 @@ Es gibt 6 Spawn möglichkeiten auf Life of Crime.
 - Man kann zwischen den Städten LS, SF, LV oder einer gesamten Tour entscheiden.
 - Ab einen höheren Skill Level kann man ein besseres Müllfahrzeug nutzen.
 
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
+
 ### Taxifahrer
 
 #### Informationen
@@ -229,17 +229,23 @@ Es gibt 6 Spawn möglichkeiten auf Life of Crime.
 - Taxifahrer Fahrzeuge stehen am Los Santos Airport.
 - Als Taxifahrer kann man zwischen 1$ und maximal 100$ pro Kilometer verlangen.
 
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
+
 ### Detektiv
 
 #### Informationen
 
 - Als Detektiv kann man Spieler suchen.
 
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
+
 ### Anwalt
 
 #### Informationen
 
 - Als Anwalt kann man Spieler aus dem Gefänniss befreien.
+
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
 
 ### Farmer
 
@@ -257,11 +263,15 @@ Es gibt 6 Spawn möglichkeiten auf Life of Crime.
 - Die heranwachsenden Marihuana Samen können von der Polizei beschlagnahmt werden oder von anderen gestohlen werden.
 - Samen dürfen nicht an unerreichbaren/unrealistischen Stellen gepflanzt werden.
 
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
+
 ### Meth Dealer
 
 - Um Methamphetamin herzustellen wird ein Wohnwagen und Koch Equipment benötigt.
 - Das Koch Equipment kann man im 24/7 kaufen der Preis variiert je nach Besitzer einstellung.
 - Polizisten können Methamphetamin beschlagnahmen, während und nach dem Kochen.
+
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
 
 ### Kokain Dealer
 
@@ -269,17 +279,23 @@ Es gibt 6 Spawn möglichkeiten auf Life of Crime.
 - Sobald man an einer Abwurfzone ist, muss man die Flare zünden, und 2 Minuten warten bis eine Tasche abgeworfen wird.
 - Die Abwurfzonen werden zufällig in San Andreas erstellt.
 
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
+
 ### Waffendealer
 
 - Man kann bis zu 15 Materialien Packete bestellen, welche an einem zufälligen übergabeort abholen kann.
 - Pro Materialien Packet erhällt man 50 Materialien.
 - Der Materialien Packet Preis liegt bei 200$.
 
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
+
 ### Pizzalieferant
 
 - Man kann rund um San Andreas an Pizza Stack Hauptfilialen einen Roller nehmen und diesen mit Pizzen beladen.
 - Sobald man Pizzen geladen hat kann man diese an Kunden in ganz San Andreas liefern.
 - Kunden geben gelegentlich auch Trinkgelder.
+
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
 
 ### Angler
 
