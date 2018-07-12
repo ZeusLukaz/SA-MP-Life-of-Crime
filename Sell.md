@@ -273,6 +273,8 @@ Es gibt 6 Spawn möglichkeiten auf Life of Crime.
 
 - Dieser Beruf ist noch in bearbeitung.
 
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
+
 ## Nebenjobs
 
 ### Grass Dealer
@@ -321,6 +323,8 @@ Es gibt 6 Spawn möglichkeiten auf Life of Crime.
 
 - Als Angler kann man an vorgesehenen Pläten Angeln.
 - Diese Fische kann man in einem Pizza Stack, Burger Shot, Cluckin Bell, Kochen und essen oder in einem 24/7 verkaufen.
+
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
 
 ## Fraktionen
 
@@ -402,6 +406,8 @@ Es gibt 6 Spawn möglichkeiten auf Life of Crime.
 - Als Staatsfraktion hat man zugriff auf dem Radio Chat.
 - Als Staatsfraktion hat man zugriff auf Zahlreiche extra Befehle.
 
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
+
 ## Immobilien
 
 #### Informationen
@@ -414,6 +420,8 @@ Es gibt 6 Spawn möglichkeiten auf Life of Crime.
 - Folgende Immobilienpreise gibt es Apartment: 150.000$ | Haus 300.000$ | Villa: 1.000.000$ | MadDog Villa: 3.000.000$
 - Immobilien werden nach 2 Wochen Inaktivität automatisch am Server Restart freigestellt.
 - Man kann sich in jede Immobilie eine/n Tänzer bestellen welchen man danach verschiedene Tänze befehlen kann vorausgesetzt man ist der Besitzer.
+
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
 
 ## Unternehmen
 
@@ -743,6 +751,8 @@ Jedes Unternehmen muss von einen Verkauf 10% Steuern zahlen und falls ein Teilha
 - San Fierro Plasure Domes
 - Las Venturas Big Spread Range
 
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
+
 ## Control Panel
 
 ### CP Startseite
@@ -804,11 +814,14 @@ Jedes Unternehmen muss von einen Verkauf 10% Steuern zahlen und falls ein Teilha
 
 - Dort werden alle Fahrzeuglieferungspunkte in San Andreas aufgelistet welche für /service --> Fahrzeuglieferung sind.
 
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
 
 ## Informationen zum Script
 
 Das Script wurde Mitte 2016 begonnen, seitdem wurden im laufe der Jahre alle Systeme nacheinander geschrieben.
 Von den meisten Fortschritten bestehen noch Backups, aktuell hat das Script knapp 36.000 Zeilen.
+
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
 
 ### Includes
 
@@ -829,6 +842,8 @@ Das Nex-ac wurde im Gamemode angepasst, damit es Ingame konfiguriert werden kann
 - animpreload
 - TimestampToDate
 
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
+
 ### Plugins
 
 Es werden 5 Plugins benötigt.
@@ -839,9 +854,13 @@ Es werden 5 Plugins benötigt.
 - MapAndreas
 - log-plugin
 
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
+
 ### Filterscripts
 
 Es wird nur ein Filterscript geladen, welches alle Mappings von Life of Crime beinhalted.
+
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
 
 ### Datenbank
 
