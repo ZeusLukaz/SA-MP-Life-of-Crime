@@ -176,8 +176,8 @@ Folgende Skins sind aktuell in der Datenbank eingestellt.
 
 Zivilisten und Undercover Skins:
 
-<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_2.png" alt="Skin"
-src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_3.png" alt="Skin"
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_2.png"
+src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_3.png" alt="Skin"/>
 <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_6.png" alt="Skin"/>
 <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_7.png" alt="Skin"/>
 <img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/skins/Skin_9.png" alt="Skin"/>
