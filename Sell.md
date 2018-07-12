@@ -312,6 +312,8 @@ Es gibt 6 Spawn möglichkeiten auf Life of Crime.
 - Je Nachdem eine Fraktion zugewiesen ist hat diese zugriffe auf Funktionen und Befehle.
 - Skins können von Projektleitern jederzeit Ingame einer Fraktion zugewiesen oder entfernt werden.
 
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
+
 #### Gangs
 
 - Für Gangs gibt es in Los Santos mehrere Graffitis welche Einflusspunkte für die Fraktion bringen.
@@ -322,6 +324,8 @@ Es gibt 6 Spawn möglichkeiten auf Life of Crime.
 - Als Leader einer Gang kann man Fraktionsfahrzeuge kaufen/verkaufen oder modifizieren.
 - Als Member einer Gang kann man fraktionsfahrzeuge per GPS finden.
 - Als Leader kann man einmal stündlich seine Fraktions Fahrzeuge respawnen.
+
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
 
 #### Mafien
 
@@ -334,12 +338,16 @@ Es gibt 6 Spawn möglichkeiten auf Life of Crime.
 - Als Leader kann man einmal stündlich seine Fraktions Fahrzeuge respawnen.
 - Zahlreiche Features wie Kokain Unternehmen sind für Mafien geplant.
 
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
+
 #### Polizei
 
 - Als Member kann man fraktionsfahrzeuge per GPS finden.
 - Als Leader kann man einmal stündlich seine Fraktions Fahrzeuge respawnen.
 - Als Leader kann man Fraktionsfahrzeuge kaufen/verkaufen oder modifizieren.
 - Als Polizist ist man stets für recht und Ordnung in San Andreas zuständig, von Banküberfällen bis zur erpresser befreiung.
+
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
 
 #### Sanitäter
 
@@ -348,12 +356,16 @@ Es gibt 6 Spawn möglichkeiten auf Life of Crime.
 - Als Leader kann man Fraktionsfahrzeuge kaufen/verkaufen oder modifizieren.
 - Als Sanitäter sorgt man sich stets um die Gesundheit der anderen Spielern von leichten Verletzungen bis zu Schussverletzungen.
 
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
+
 #### Ordnungsamt
 
 - Als Member kann man fraktionsfahrzeuge per GPS finden.
 - Als Leader kann man einmal stündlich seine Fraktions Fahrzeuge respawnen.
 - Als Leader kann man Fraktionsfahrzeuge kaufen/verkaufen oder modifizieren.
 - Als Ordnungsamt Beamter sorgt man auf den Straßen von San Andreas für ordnung.
+
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
 
 #### News Reporter
 
@@ -362,6 +374,8 @@ Es gibt 6 Spawn möglichkeiten auf Life of Crime.
 - Als Member kann man fraktionsfahrzeuge per GPS finden.
 - Als Leader kann man einmal stündlich seine Fraktions Fahrzeuge respawnen.
 - Als Leader kann man Fraktionsfahrzeuge kaufen/verkaufen oder modifizieren.
+
+<img src="https://raw.githubusercontent.com/ZeusLukaz/SA-MP-Life-of-Crime/Sell/line.png" alt="Line"/>
 
 #### Staat
 
